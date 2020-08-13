@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>{{ page.title }}</title>
+    <meta charset='UTF-8'>
+    <meta content='width=device-width, initial-scale=1' name='viewport'/>
+
+    <meta name='description' content='First Principles.'>
+    <meta name='keywords' content='{{ page.keywords }}'>
+    <meta name='author' content='Adam Green'>
+
+    <link href='/css/blog.css' rel='stylesheet'/>
+    <link href='/css/trac.css' rel='stylesheet'/>
+    <link href='/css/markdown.css' rel='stylesheet'/>
+
+    {% include mathjax.html %}
+</head>
+<body>
+<div class='content'>
+    {% include nav.html %}
+    <div class='wrap article'>
+        {{ content }}
+    </div>
+</div>
+</body>
+</html>
