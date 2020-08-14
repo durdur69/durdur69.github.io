@@ -46,7 +46,7 @@ I largely agree with Harden on the empirical research on genetics and educationa
 Note: This essay presumes familiarity with behavioral genetics. For a brief primer, check out [this review](https://quillette.com/2018/09/25/forget-nature-versus-nurture-nature-has-won/) of Robert Plomin’s book, _Blueprint_. To make a long story short, in the past 5-10 years, due to a steep decline in the cost of genotyping (sequencing a set of genetic markers) and studies done on this genetic data, we are quickly developing genetic predictors (called polygenic scores, PGS, or PRS) of traits like educational attainment (EA). These predictors currently explain around [13% of the variance in educational attainment](https://www.ncbi.nlm.nih.gov/pubmed/30038396), which is as predictive as knowing one’s parental income level.
 
 <a href id="steelmanning"> </a>
-### Steelmanning Harden on Equity 
+## Steelmanning Harden on Equity 
 
 The [OECD definition](https://www.oecd.org/education/school/50293148.pdf) of educational equity that Harden cites has two components: inclusion—“ensuring that all students reach at least a basic minimum level of skills”—and fairness—“personal or socio-economic circumstances, such as gender, ethnic origin or family background are not obstacles to educational success” (p. 15). On its face, both aspects of educational equity seem laudable. We want an informed citizenry that is able to do basic math, reading and science; and we don&#8217;t want there to be personal or socio-economic impediments to educational success.&nbsp;
 
@@ -58,7 +58,7 @@ That said, the SNP heritability figures might be overestimates, since [within-fa
 
 Our current, [rudimentary genetic predictors](https://www.ncbi.nlm.nih.gov/pubmed/30038396) of educational attainment are useful at the population level, not the individual level. _On average,_ individuals with higher polygenic scores for educational attainment tend to [be more economically mobile](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4946990/) regardless of childhood socioeconomic status, for example. As stated in [a paper](https://www.biorxiv.org/content/biorxiv/early/2019/04/05/598532.full.pdf) Harden was co-lead author on, “Integrating genetic information in educational research also has the potential to introduce a novel source of data for researchers and policymakers interested in estimating schooling effects on the distribution of student outcomes.” For example, we might be able to use school-wide PGS heritability figures to ensure as level a playing field as possible; this will maximize the chance that all students reach the basic minimum level of skills (inclusion) and that family background won’t be an impediment to educational success (fairness).&nbsp;
 
-### Equality of Outcome and Opportunity
+## Equality of Outcome and Opportunity
 
 I agree with most of what I stated in my recapitulation of Harden’s views on behavioral genetic research. I hope she’d agree, too. However, our intuitions differ on how this research can and should be applied to the goal of equity. Here I’ll outline the doubts I have.
 
@@ -84,6 +84,8 @@ The first reason is that [the genetic lottery](http://www.geneticshumanagency.or
 
 The second reason true equality of opportunity is impossible is that we don’t have unlimited educational resources, so we can’t realistically give any individual all the help and time they need. At the elementary and secondary level, total US public education spending [amounted to $700 billion](https://nces.ed.gov/programs/coe/indicator_cmb.asp) (nearly $14,000 per student) in 2015-16. Bryan Caplan and others [have argued](https://press.princeton.edu/titles/11225.html) that much of this spending is bloat. Yet even if you don’t buy that argument, it seems that throwing more money at the problem won’t solve it, considering how much money is already being spent.
 
+### US Educational Reform: Attempts to Achieve Equality of Opportunity
+
 One might retort that we don’t know that equality of opportunity is impossible since we’ve never really attempted it. However, this is largely wrong. Efforts to help the worst students improve their academic performance—i.e., our best approximations of equality of opportunity—have been numerous, yet all these efforts have failed.&nbsp;
 
 In the US, they began with the [Elementary and Secondary Education Act (ESEA)](https://socialwelfare.library.vcu.edu/programs/education/elementary-and-secondary-education-act-of-1965/), signed into law by President Lyndon B. Johnson in 1965, as part of the [War on Poverty](https://en.wikipedia.org/wiki/War_on_Poverty). Title 1 of this act disbursed money to school districts with a high proportion of disadvantaged students, in an attempt to close achievement gaps. Unfortunately, the ESEA didn’t achieve its intended effect (if it had, we likely wouldn’t be talking about equality of opportunity right now).&nbsp;
@@ -94,7 +96,7 @@ The other notable wide-scale attempt to close achievement gaps was [No Child Lef
 
 This isn’t to say no progress has been made: [from 1990 to 2017](https://www.nationsreportcard.gov/reading_math_2017_highlights/), the 4th-grade average NAEP math scores increased from the _Basic_ level to almost the _Proficient_ level. However, the average reading score has barely improved during the same period. But lest we attribute these gains to NCLB, the majority of mathematics gains were made from 1990-2003, before NCLB came into full effect. Worst of all, it seems that the highest performing students are the ones improving the most, both in reading and math, whereas the lowest-performing students’ floundering only worsens. That is, the gap between the best- and worst-performing students continues to widen.
 
-### Deconstructing the Debate
+## Deconstructing the Debate
 
 Though disheartening, none of these findings on the failures of educational interventions are terribly surprising given what we know about the behavioral genetics of educational attainment and intelligence.
 
@@ -104,7 +106,7 @@ In an ideal world, we’d have equality of opportunity [modulo](https://english.
 
 Genetics research and the history of educational interventions considerably constrain the space of reasonable answers to these questions. That said, there’s still room for difference of opinion on the empirical and ethical assumptions underlying our answers to these questions. Here I’ll lay out the substantive dimensions along which these assumptions can differ.
 
-##### Empirical Dimensions To Disagree On&nbsp;
+### Empirical Dimensions To Disagree On&nbsp;
 
 _**Human Capital Development**_
 
@@ -132,7 +134,7 @@ _**How Pressing is the Problem of Automation?&nbsp;**_
 
 Are “[robots really taking our jobs](https://irs.princeton.edu/sites/irs/files/event/uploads/robots_and_jobs_march_3.17.2017_final.pdf)” and is [“software eating the world”](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)? Is this trend going to accelerate?&nbsp;Will this trend disproportionately affect those with little education and prospects of retraining for a new job? 
 
-##### Ethical Dimensions to Disagree On
+### Ethical Dimensions to Disagree On
 
 _**Discounting Rate of Future Lives**_
 
@@ -152,15 +154,15 @@ _**Educational Austerity**_
 
 How much should we cut the educational budget? Where do we situate education in our list of priorities?
 
-### Three Visions for K-12 Public Education
+## Three Visions for K-12 Public Education
 
 Here I situate three visions—two commonly held and one novel—along the dimensions I’ve outlined.&nbsp;
 
-##### **The Egalitarian Vision**
+### **The Egalitarian Vision**
 
 Let’s get unrealistic views off the table. Many people, who are unaware of behavioral genetics research, believe some element of what we can call “the egalitarian vision.” This vision states that, on the empirical front, intelligence is completely malleable and the achievement gap will be closed if we use enough educational resources, and, on the ethical front, that we should attempt to redress educational inequality at all costs. Charles Murray called this ideology “educational romanticism&#8230;The lie is that every child can be anything he or she wants to be” (_Real Education_, p. 11). Anyone who proffers these sorts of views is the [ideological suicide bomber being invited to dinner](https://www.youtube.com/watch?v=jgRU67lwsI4): they don’t deserve a place at the table because they won’t engage with the empirical evidence, stifling fruitful conversation. So, we needn’t give this scheme any more thought.
 
-##### **The Rawlsian Vision and Noble Lies**
+### **The Rawlsian Vision and Noble Lies**
 
 What I’ll call the “Rawlsian vision” attempts to reconcile egalitarian ethics with realism about behavioral genetics. One might also call this [luck egalitarianism](https://en.wikipedia.org/wiki/Luck_egalitarianism). According to luck egalitarianism, we should create institutions that strive to minimize opportunities and power that come from undeserved advantages, such as genetic endowment or other happenstance of birth (like being born in a first-world country). Per Rawls, this type of [fairness](https://eportfolios.macaulay.cuny.edu/thorne15/files/2015/03/Rawls-JUSTICE-AS-FAIRNESS.pdf) constitutes a just world.&nbsp;
 
@@ -196,7 +198,7 @@ These ideas don’t hold water, either. Though the effects of growth mindset are
 
 Clearly, Plomin understands behavior genetics; as he has been working on the [Twins’ Early Development Study](https://en.wikipedia.org/wiki/Twins_Early_Development_Study) for 25 years. Yet, for whatever reason, he chooses to tell [noble lies](https://en.wikipedia.org/wiki/Noble_lie) (or, in the case of _Blueprint_, chooses to stay silent about the policy implications of his research).&nbsp;
 
-##### **Radical Meritocracy: A Pessimistic, Utilitarian, Care- and Fairness-Insensitive Take on Education**
+### **Radical Meritocracy: A Pessimistic, Utilitarian, Care- and Fairness-Insensitive Take on Education**
 
 <blockquote class="wp-block-quote">
   <p>
@@ -220,7 +222,7 @@ I hope to both build on Murray’s claims and root them in deeper ethical and em
 
 I’ll call this system radical educational meritocracy (which I&#8217;ll henceforth refer to as &#8220;radical meritocracy&#8221;). The term meritocracy was coined by [Michael Young](https://www.theguardian.com/politics/2001/jun/29/comment) in his 1958 science-fiction satire, [_The Rise of the Meritocracy_](https://en.wikipedia.org/wiki/The_Rise_of_the_Meritocracy). Many consider the book’s vision to be that of a dystopia, demonstrating the folly of an administrative state’s attempt to use intelligence testing to optimize collective performance. However, if radical meritocracy were executed properly, something which is becoming more feasible, I believe it would maximize collective utility over the long-run.
 
-**Motivations and Premises of Radical Meritocracy**
+#### Motivations Underlying Radical Meritocracy
 
 Radical meritocracy is motivated by a sense of urgency about the following two trends: 
 
@@ -229,11 +231,11 @@ Radical meritocracy is motivated by a sense of urgency about the following two t
 
 Here I&#8217;ll quickly address why we should feel a sense of urgency about these two issues:
 
-**Automation:**
+**_Automation_**
 
 Though the U.S. unemployment rate is at a record low, 3.6%, the labor force participation rate has been [steadily declining since the mid to late 90’s](https://www.bls.gov/charts/employment-situation/civilian-labor-force-participation-rate.htm). From 1979-2007, [employment rates fell most](https://economics.mit.edu/files/5554) for males who dropped out of or only graduated from high school. And though we’re currently in the [midst of a jobs boom](https://www.economist.com/leaders/2019/05/23/the-rich-world-is-enjoying-an-unprecedented-jobs-boom), one in which [weekly nominal earnings](https://www.economist.com/united-states/2019/05/16/american-life-is-improving-for-the-lowest-paid) have been increasing for the lowest earners, many of the jobs being created are low-skill or temporary jobs (which [few people want to do](https://www.wsj.com/articles/available-jobs-in-u-s-edge-higher-in-october-1544457618)). The prospects of job reskilling programs [are dismal](https://journals.sagepub.com/doi/10.1177/1045159518818407)—so it seems the truckers and journalists won’t “learn to code” any time soon—and for the majority of workers, automation has become more a [force of labor displacement than of labor augmentation](https://www.brookings.edu/wp-content/uploads/2018/03/1_autorsalomons.pdf). Whatever the cause of these trends, the low-skilled, poorly educated worker is taking the brunt of it, and a substantial proportion of [white-collar workers](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages#part1) might soon be as well. [Average will soon be over](https://www.brookings.edu/blog/social-mobility-memos/2013/10/15/not-afraid-of-tyler-cowen-you-will-be-a-review-of-average-is-over-powering-america-beyond-the-age-of-the-great-stagnation/). That said, it bodes well for those who perform [cognitive, non-routine work](https://academic.oup.com/qje/article-abstract/118/4/1279/1925105) and skilled [manual](https://en.wikipedia.org/wiki/Moravec%27s_paradox) trades.
 
-**Existential Risk:**
+**_Existential Risk_**
 
 For a variety of reasons—the existence of the Fermi Paradox, our close brushes with nuclear war in the second half of the 20th century, the ease with which bad actors can now develop dangerous bioweapons, etc.—we should be worried about existential risk. 
 
@@ -251,7 +253,7 @@ The way we get over the peak of the existential risk curve is by developing bett
 
 If we don&#8217;t build these technologies and institutions that allow us to crest the hill and reduce the ambient level of existential risk, given a long enough time horizon it seems the only alternative outcomes are stagnation (which is unlikely given our expanding technological capacities) or annihilation (i.e., we are hit with an existential risk which either wipes out humanity or reverts us back to an earlier technological age). Neither of these outcomes is desirable, especially the latter, so we should highly value getting over the hump of the existential risk curve. 
 
-**_Empirical and Ethical Premises_**
+#### Empirical and Ethical Premises
 
 On the empirical front, my other premises are: education is a zero-sum, [positional good](https://en.wikipedia.org/wiki/Positional_good) mostly [about signaling and selection](http://www.aei.org/publication/the-case-against-education-a-long-read-qa-with-bryan-caplan/), not the development of real human capital; that said, educational interventions (like talent identification programs) are particularly useful for children on the far right end of the ability distribution, as these children go on to [achieve disproportionate creative and professional success](https://adamlgreen.com/smpy/) compared to their peers; for the majority of students, after teaching basic skills, we quickly reach diminishing marginal returns to education; variation in educational attainment is mostly, though certainly not completely, [caused by genetic variation, not variation in access to educational resources](https://psycnet.apa.org/record/2008-18777-001?mod=article_inline); given the behavioral genetic research and the repeated failure of educational interventions to demonstrate long-term, reliable improvements in educational outcomes, it’s most parsimonious to think we’ll never discover a scalable intervention that fully closes achievement gaps between the best and worst students; finally, [educationism](https://www.theatlantic.com/magazine/archive/2019/07/education-isnt-enough/590611/) is wrong—the relationship between education and social inequality is largely [moderated by genetic variation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4946990/) in traits that [predispose one towards economic mobility](https://www.nber.org/papers/w25114), _not_ family background privilege.
 
@@ -259,11 +261,11 @@ On the ethical front, my premises are: we assume an indirect version of [consequ
 
 Fully fleshing out all of these premises is beyond the scope of this essay. Nonetheless, given these premises, contra Plomin and Harden, I believe we should embrace radical meritocracy even at the expense of short-term inequality and injustice.
 
-**What is Radical Meritocracy?**
+#### What is Radical Meritocracy?
 
 Radical meritocracy takes on board the Rawlsian idea that we should make choices about social systems (such as what constitutes educational equality of opportunity) as if we were behind a [veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance), not knowing where we’d end up. But behind the veil, radical meritocracy permits greater variance in life outcomes if it means that total utility is higher, which flies in the face of the [difference principle of Rawls’ second principle of justice](https://plato.stanford.edu/entries/rawls/#TwoPriJusFai). Radical meritocracy also takes the long-term view, considering the utility of those currently alive and of our yet-to-be-born descendants (that is, it is not a [person-affecting view](https://en.wikipedia.org/wiki/Person-affecting_view)), meaning that behind the veil of ignorance one doesn’t know if they’ll be born in the 21st century or will be one of our (possibly existent) descendants living in the 31st century, colonizing the galaxy. This requires rejecting the luck egalitarians’ preoccupation with short-term inequality in favor of focusing on long-term gains in quality of life for all.
 
-**Radical Meritocracy in Practice**
+#### Radical Meritocracy in Practice
 
 Under our current K-12 system, a child’s access to educational resources is largely a matter of chance, and not correlated with their innate ability. Poor, smart kids tend to end up in the low-quality public schools near their house. Rich kids more often get sent to private schools, even if they’re a bit dull. Yes, highly [competitive specialized schools](https://quillette.com/2019/04/03/what-new-yorks-public-schools-could-learn-from-stuyvesant/) like [Bronx High School of Science](https://en.wikipedia.org/wiki/Bronx_High_School_of_Science) and [Stuyvesant High School](https://en.wikipedia.org/wiki/Stuyvesant_High_School) (both of which are more selective than Harvard, accepting 3% of applicants each) allow the poor but bright kids to get ahead. But these schools are currently few and far between. Under a system of radical meritocracy, there would be many more such competitive specialized schools. However, this is just the tip of the iceberg.
 
@@ -309,7 +311,7 @@ You might be asking yourself: what do we do with the overwhelming majority of st
 
 In Germany, for example, nearly [⅓ of students](https://www.cleanenergywire.org/factsheets/how-germanys-vocational-education-and-training-system-works) pursue vocational training. Beyond vocational training, though, I think a radical reduction in public education spending and a renewed focus on reading, writing, and arithmetic (plus increased focus on other important topics, such as how to be in a relationship, basic Western history, etc.) would be the best course of action. 
 
-### Dimensionality Reduction of Intuitions Around Radical Meritocracy
+## Dimensionality Reduction of Intuitions Around Radical Meritocracy
 
 My radical meritocracy scheme is lacking in specifics and leaves many questions unanswered. There are many topics to touch on: school choice (vouchers vs. public), how K-12 education relates to higher education (and the pernicious signal inflation that is occurring), how to change pedagogy, what to do about all the bright “learning-disabled” children that fall through the cracks of our educational system, what to do with the students not on the right tail of the ability distribution, etc.
 
@@ -337,7 +339,7 @@ Radical meritocracy isn’t fair, in the traditional sense. But it’s fair (and
 
 But why not maintain the educational status quo? Philosopher Evan Williams [has suggested](https://link.springer.com/article/10.1007/s10677-015-9567-7) that we may currently be engaged in various moral catastrophes that we’re completely unaware of; education may be one such catastrophe. A potential solution, per Williams, is “refocusing our educational system on identifying the most talented children and nurturing them to their full potential, not on trying to shepherd every last mediocre student into a four-year college” (9). If we truly care about the long-term future of humanity and believe that technological innovation is the means of achieving such a future, then we ought to take this idea seriously. Forestalling scientific progress (and the development of better human institutions) [could result in the counterfactual deaths](https://nickbostrom.com/astronomical/waste.html) of trillions of lives, squandering huge amounts of utility. 
 
-### The Educational Inequality Treadmill
+## The Educational Inequality Treadmill
 
 Discussing [the progressive conversation about racism](https://quillette.com/2018/05/14/the-racism-treadmill/) in the United States, Coleman Hughes writes:&nbsp;
 
