@@ -116,6 +116,11 @@ h1 {
   padding: 20px 0;
   text-align: center;
 }
+.article .figure-below-header {
+  border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
+  padding: 20px 0;
+  text-align: center;
+}
 .article .figure .caption {
   padding-top: 15px;
   display: inline-block;
