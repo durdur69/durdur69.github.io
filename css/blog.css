@@ -114,6 +114,7 @@ h1 {
   border-top: 1px solid hsla(0, 0%, 0%, 0.2);
   border-bottom: 1px solid hsla(0, 0%, 0%, 0.2);
   padding: 20px 0;
+  text-align: center;
 }
 .article .figure .caption {
   padding-top: 15px;
@@ -208,9 +209,9 @@ h1 {
 hr {
   border-top: #ccc;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 730px) {
   body {
-    margin: 0 20px 0 30px;
+    margin: 0 30px 0 30px;
   }
 }
 
@@ -252,20 +253,4 @@ blockquote > cite {
     }
 }  
 
-
-.sidenote, .marginnote { 
-    float: right;
-    clear: right;
-    text-align: left;
-    margin-right: -42%;
-    max-width: 40%;
-    margin-top: 0.2rem;
-    margin-bottom: 0.2rem;
-    font-size: 0.9rem;
-    line-height: 1.5; //changed to bring line heights into rational pattern
-    vertical-align: baseline;
-    position: relative;
-    overflow-wrap: break-word;
-    text-align: left;
-}
 

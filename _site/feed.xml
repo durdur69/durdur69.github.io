@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://adamlgreen.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://adamlgreen.com/" rel="alternate" type="text/html" /><updated>2020-08-13T23:35:35-04:00</updated><id>https://adamlgreen.com/feed.xml</id><entry><title type="html">Replication Markets: Can You Predict Which Social Science Papers Will Replicate?</title><link href="https://adamlgreen.com/replication-markets/" rel="alternate" type="text/html" title="Replication Markets: Can You Predict Which Social Science Papers Will Replicate?" /><published>2019-08-21T00:00:00-04:00</published><updated>2019-08-21T00:00:00-04:00</updated><id>https://adamlgreen.com/replication-markets</id><content type="html" xml:base="https://adamlgreen.com/replication-markets/">&lt;h3 id=&quot;what-are-replication-markets&quot;&gt;What are Replication Markets?&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-14T16:45:27-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Replication Markets: Can You Predict Which Social Science Papers Will Replicate?</title><link href="http://localhost:4000/replication-markets/" rel="alternate" type="text/html" title="Replication Markets: Can You Predict Which Social Science Papers Will Replicate?" /><published>2019-08-21T00:00:00-04:00</published><updated>2019-08-21T00:00:00-04:00</updated><id>http://localhost:4000/replication-markets</id><content type="html" xml:base="http://localhost:4000/replication-markets/">&lt;h2 id=&quot;what-are-replication-markets&quot;&gt;What are Replication Markets?&lt;/h2&gt;
 
 &lt;p&gt;Replication Markets are a type of &lt;a href=&quot;http://mason.gmu.edu/~rhanson/ideafutures.html&quot;&gt;prediction market&lt;/a&gt;, mechanisms that enable individuals to bet on the outcome of events. Just as financial markets efficiently determine the perceived value of a security by aggregating the beliefs of buyers and sellers (e.g., I think this stock will rise in price, so I will buy more), &lt;a href=&quot;https://www.investopedia.com/terms/p/prediction-market.asp&quot;&gt;prediction markets&lt;/a&gt; determine the perceived likelihood of an event by aggregating the beliefs of many individuals. Both financial and prediction markets draw on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Wisdom_of_the_crowd&quot;&gt;wisdom&lt;/a&gt; (or sometimes lunacy) of crowds and the power of financial incentives.&lt;/p&gt;
 
@@ -12,7 +12,7 @@
 
 &lt;p&gt;In this essay, I’ll explain how RM works, explain the market mechanisms and game theory of it, and walk through my thought process and strategy.&lt;/p&gt;
 
-&lt;h2 id=&quot;how-replication-markets-works&quot;&gt;How Replication Markets Works&lt;/h2&gt;
+&lt;h2 id=&quot;how-replication-markets-works&quot;&gt;How &lt;em&gt;Replication Markets&lt;/em&gt; Works&lt;/h2&gt;
 
 &lt;h3 id=&quot;what-counts-as-replication&quot;&gt;What Counts as Replication?&lt;/h3&gt;
 
@@ -26,9 +26,9 @@
 
 &lt;p&gt;Replication Markets is composed of 10, 4-week rounds, starting in September 2019 (plus a special Round 0 for meta-claims in August 2019, which I’ll address later). &lt;a href=&quot;https://www.replicationmarkets.com/index.php/frequently-asked-questions/payouts/&quot;&gt;Each round has two components&lt;/a&gt;: markets and surveys, both of which are ways to aggregate many opinions and achieve the &lt;a href=&quot;https://www.google.com/search?q=wisdom+of+crowds&amp;amp;rlz=1C1CHBF_enUS851US851&amp;amp;oq=wsidom+of+c&amp;amp;aqs=chrome.1.69i57j0l5.3192j1j0&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&quot;&gt;wisdom of crowds.&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;surveys&quot;&gt;&lt;strong&gt;Surveys&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Surveys&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Surveys are private evaluations (i.e., opinion polls) of the probability that a given claim is true. These evaluations are made a week prior to the market’s opening. Surveys come in batches of 10 claims (all from the same journal, I believe), and there are around 15 per round. Surveys pay out at the end of the following round, with top 4 participants receiving $80, $40, $20, and $20.&lt;/p&gt;
+&lt;p&gt;Surveys are private evaluations (i.e., opinion polls) of the probability that a given claim is true. These evaluations are made a week prior to the market’s opening. Surveys come in batches of 10 claims (all from the same journal, I believe), and there are around 15 per round. Surveys pay out at the end of the following round, with top 4 participants receiving \$80, \$40, \$20, and \$20 dollars each.&lt;/p&gt;
 
 &lt;p&gt;RM isn’t specifying how exactly the surveys will be scored. Because they resolve a month after closing, before the actual replication attempts, they must involve predicting what probabilities the prediction markets will give each claim. I emailed RM to find out about the scoring and was told this:&lt;/p&gt;
 
@@ -40,11 +40,11 @@
   &lt;cite&gt;Personal Communication&lt;/cite&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;markets&quot;&gt;&lt;strong&gt;Markets&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Markets&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Markets are the prediction market aspect of RM. Each participant is given a set number of points, which she can use to buy Yes or No shares for a claim. Markets “pay out proportionally to winning shares” and will resolve by mid-2020, once the replications have been attempted.&lt;/p&gt;
 
-&lt;p&gt;According to the &lt;a href=&quot;https://www.replicationmarkets.com/index.php/frequently-asked-questions/rules/&quot;&gt;rules&lt;/a&gt;, only 100 of the 3000 (i.e., 3.33%) claims will be selected &lt;em&gt;and&lt;/em&gt; pay out (these claims will be directly replicated; the data-replicated claims do not pay out). Each of these has a total payout of $900, paid proportional to the number of winning shares in a resolved claim (e.g., I have 10 Yes shares for Claim X; the total number of Yes shares held by RM participants in 1,000; so, I am paid 10/1,000 out of $900, which equals $9).&lt;/p&gt;
+&lt;p&gt;According to the &lt;a href=&quot;https://www.replicationmarkets.com/index.php/frequently-asked-questions/rules/&quot;&gt;rules&lt;/a&gt;, only 100 of the 3000 (i.e., 3.33%) claims will be selected &lt;em&gt;and&lt;/em&gt; pay out (these claims will be directly replicated; the data-replicated claims do not pay out). Each of these has a total payout of \$900, paid proportional to the number of winning shares in a resolved claim (e.g., I have 10 Yes shares for Claim X; the total number of Yes shares held by RM participants in 1,000; so, I am paid 10/1,000 out of \$900, which equals \$9).&lt;/p&gt;
 
 &lt;p&gt;For the meta round, Round 0, “Meta-claims resolve as the proportion of successful direct replications, so a meta-claim resolving as 60% would pay 0.6 points per ‘Yes’ share and 0.4 points per ‘No’ share.” The total payout for this round is $360 for each of the 12 meta-claims.&lt;/p&gt;
 
@@ -81,9 +81,12 @@
 
 &lt;p&gt;Here’s an example of arbitrage, converting 23 ‘No’ shares to 36 ‘Yes’ shares (with the help of 2 other points, which buy about 6 of the 36 shares):&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;620&quot; height=&quot;246&quot; src=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_1.png?resize=620%2C246&amp;#038;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-1403&quot; srcset=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_1.png?w=891&amp;amp;ssl=1 891w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_1.png?resize=300%2C119&amp;amp;ssl=1 300w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_1.png?resize=768%2C304&amp;amp;ssl=1 768w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; data-recalc-dims=&quot;1&quot; /&gt; &amp;lt;/figure&amp;gt; &lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;620&quot; height=&quot;242&quot; src=&quot;https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_2.png?resize=620%2C242&amp;#038;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-1404&quot; srcset=&quot;https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_2.png?w=893&amp;amp;ssl=1 893w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_2.png?resize=300%2C117&amp;amp;ssl=1 300w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_2.png?resize=768%2C299&amp;amp;ssl=1 768w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; data-recalc-dims=&quot;1&quot; /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt; 
+    &lt;img src=&quot;/assets/img/arbitrage_1.png&quot; loading=&quot;lazy&quot; width=&quot;100%&quot; display=&quot;block&quot; margin=&quot;0 auto&quot; /&gt; 
+    &lt;img src=&quot;/assets/img/arbitrage_2.png&quot; loading=&quot;lazy&quot; width=&quot;100%&quot; display=&quot;block&quot; margin=&quot;0 auto&quot; /&gt;
+&lt;/div&gt;
 
-&lt;h3 id=&quot;round-0&quot;&gt;Round 0&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Round 0&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;For Round 0, you must predict the percentage of claims that will replicate per field and per time period. There are 12 such “meta-claims”. Pay outs are based on the number of ‘Yes’ or ‘No’ shares you have for each of these 12 meta-claims.&lt;/p&gt;
 
@@ -95,15 +98,15 @@
   &lt;li&gt;The proportion of N that spend all their points (I’ll assume this is 100% to be conservative)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;A toy example: assume that every meta-claim had a replication rate of 50%. This means that ‘Yes’ and ‘No’ shares are paid the same amount. The total prize money is $4320 for these 12 claims. The total pool of points is 50,000, assuming N = 500. So, if everyone bought their shares at the exact same price, each point is worth about $0.086. Given that everyone started with 100 points, each person earns around $8.60. If we change our assumptions and let N = 100, each person earns around $43.&lt;/p&gt;
+&lt;p&gt;A toy example: assume that every meta-claim had a replication rate of 50%. This means that ‘Yes’ and ‘No’ shares are paid the same amount. The total prize money is \$4320 for these 12 claims. The total pool of points is 50,000, assuming N = 500. So, if everyone bought their shares at the exact same price, each point is worth about \$0.086. Given that everyone started with 100 points, each person earns around \$8.60. If we change our assumptions and let N = 100, each person earns around \$43.&lt;/p&gt;
 
 &lt;p&gt;A more realistic example: assume that each meta-claim has a 0.5 chance of being either 40% or 60%. Suppose that you end up being on the correct side of all 12 of these markets (i.e., if the replication rate is 60%, you bought all ‘Yes’ shares). Also, suppose that the prediction market’s final estimates for all these claims are 50%. Then, if you start with 100 points and evenly distribute them across claims, your earnings will be around 10% more, as you receive 0.6 points for every “correct” share.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Strategy&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;There are possible arbitrage and subterfuge opportunities, but frankly, I don’t think they’re worth going into given how small the rewards are.&lt;/p&gt;
 
-&lt;h3 id=&quot;rounds-1-10&quot;&gt;Rounds 1-10&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Rounds 1-10&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The more interesting game theory is in Rounds 1-10. Should we uniformly distribute our points, or should we focus on areas in which we have more expertise, and therefore are more likely to correctly predict?&lt;/p&gt;
 
@@ -111,7 +114,7 @@
 
 &lt;p&gt;“The market is probably most accurate when forecasters specialize, because one kind of forecaster won’t have enough points.”&lt;/p&gt;
 
-&lt;p&gt;Per round, each forecaster has 300 points to spend on 300 claims, 10 of which will be directly replicated and paid out. Assuming (obviously a simplification) that replication rate is constant across all six fields, that means around 1.67 claims per field will be directly replicated each round. The total prizes per round are $9000, meaning that the expected prize money for each claim is $30.&lt;/p&gt;
+&lt;p&gt;Per round, each forecaster has 300 points to spend on 300 claims, 10 of which will be directly replicated and paid out. Assuming (obviously a simplification) that replication rate is constant across all six fields, that means around 1.67 claims per field will be directly replicated each round. The total prizes per round are \$9000, meaning that the expected prize money for each claim is \$30.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;&lt;/p&gt;
 
@@ -119,11 +122,11 @@
 
 &lt;p&gt;(Note, however, that this isn’t an evolutionarily stable strategy; if everyone were to realize markets with fewer participants increased their chances of winning, the equilibrium condition would be an even distribution of participants among all markets.)&lt;/p&gt;
 
-&lt;h2 id=&quot;how-to-win-the-surveys&quot;&gt;How to Win the Surveys&lt;/h2&gt;
+&lt;h3 id=&quot;how-to-win-the-surveys&quot;&gt;How to Win the Surveys&lt;/h3&gt;
 
 &lt;p&gt;Surveys are by far the more financially rewarding opportunity in RM. They have a &lt;a href=&quot;https://www.truepoker.eu/poker-tournaments/payout-structure/&quot;&gt;tournament payout structure&lt;/a&gt;, with only the top 4 forecasters winning. And they don’t involve the confusing LMSR the markets use. To win the surveys, you need to be good at predicting which claims will replicate, which I’ll focus on below. But first, let’s focus on the second-order function of which claims the rest of the survey-takers &lt;em&gt;believe&lt;/em&gt; will replicate, as this is key to the survey scoring function.&lt;/p&gt;
 
-&lt;h4 id=&quot;survey-scoring-rules&quot;&gt;Survey Scoring Rules&lt;/h4&gt;
+&lt;h4 id=&quot;issues-in-survey-incentive-design&quot;&gt;Issues in Survey Incentive Design&lt;/h4&gt;
 
 &lt;p&gt;RM will use some secret crowd aggregation technique for scoring surveys. All they’re willing to reveal is that “in the survey you are scored against our best judgment of the right forecast, having processed all the forecasts of other participants using our best aggregation techniques.”&lt;/p&gt;
 
@@ -131,7 +134,7 @@
 
 &lt;p&gt;This depends on the survey scoring method. A good candidate is to be found in the recent arXiv paper by Yang Liu and Yiling Chen (two members of the &lt;a href=&quot;https://www.replicationmarkets.com/index.php/our-team/&quot;&gt;RM scoring team&lt;/a&gt;), “&lt;a href=&quot;https://arxiv.org/pdf/1802.09158.pdf&quot;&gt;Surrogate Scoring Rules and a Uniform Dominant Truth Serum&lt;/a&gt;“. Considering that RM will be experimenting with novel methods of survey aggregation, I think this fits the bill. The question is: will understanding the scoring system allow us to game it?&lt;/p&gt;
 
-&lt;h5 id=&quot;surrogate-scoring-rules&quot;&gt;Surrogate Scoring Rules&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Surrogate Scoring Rules&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The scoring problem Liu and Chen address is the following:&lt;/p&gt;
 
@@ -195,13 +198,15 @@
 
 &lt;p&gt;Case in point, a &lt;a href=&quot;https://www.nature.com/articles/s41562-018-0399-z&quot;&gt;2018 replication project&lt;/a&gt; for 21 social science papers published in &lt;em&gt;Science&lt;/em&gt; and &lt;em&gt;Nature&lt;/em&gt; (two of the top general science journals) between 2010 and 2015 had a replication rate of 62%.&lt;/p&gt;
 
-&lt;h2 id=&quot;does-replication-rate-vary-significantly-by-field&quot;&gt;Does Replication Rate Vary Significantly By Field?&lt;/h2&gt;
+&lt;h3 id=&quot;does-replication-rate-vary-significantly-by-field&quot;&gt;Does Replication Rate Vary Significantly By Field?&lt;/h3&gt;
 
 &lt;p&gt;A single general social science replication project is useful, but certainly not dispositive. A much better approach is to look at replication on a field-by-field basis, set these as our priors, and forecast replication of specific claims using these priors.&lt;/p&gt;
 
 &lt;p&gt;It’s clear that certain fields have better &lt;a href=&quot;https://wiki.lesswrong.com/wiki/Epistemic_hygiene&quot;&gt;epistemic hygiene&lt;/a&gt; than others. One index of poor epistemic hygiene is the percentage of publications in a field that feature results confirming the tested hypothesis, i.e., positive results. Psychology &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850928/&quot;&gt;is the worst culprit&lt;/a&gt; in this regard. &lt;figure class=&quot;wp-block-image&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;447&quot; height=&quot;515&quot; src=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/positive_publication_bias-1.jpg?resize=447%2C515&amp;#038;ssl=1&quot; alt=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850928/&quot; class=&quot;wp-image-1370&quot; srcset=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/positive_publication_bias-1.jpg?w=447&amp;amp;ssl=1 447w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/positive_publication_bias-1.jpg?resize=260%2C300&amp;amp;ssl=1 260w&quot; sizes=&quot;(max-width: 447px) 100vw, 447px&quot; data-recalc-dims=&quot;1&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt; 
+    &lt;img src=&quot;/assets/img/positive_publication_bias-1.jpg&quot; loading=&quot;lazy&quot; max-width=&quot;100%&quot; display=&quot;block&quot; margin=&quot;0 auto&quot; alt=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850928/&quot; /&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Typically, among the social sciences, it’s the “harder” social sciences (e.g., much of economics, parts of psychology like behavioral genetics and quantitative psychology) that have better epistemic hygiene. Therefore, we’d expect replication to be higher in these fields.&lt;/p&gt;
 
@@ -219,19 +224,19 @@
 
 &lt;p&gt;I’ll weigh the existing replication attempts most heavily, so here they are:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Economics:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Economics&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;A &lt;a href=&quot;https://science.sciencemag.org/content/351/6280/1433&quot;&gt;replication project&lt;/a&gt; done by the Experimental Economics Replication Project (EERP) had a &lt;a href=&quot;https://experimentaleconreplications.com/&quot;&gt;&lt;strong&gt;61% replication rate&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h5 id=&quot;psychology&quot;&gt;&lt;strong&gt;Psychology:&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Psychology&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;2015: The “&lt;a href=&quot;https://science.sciencemag.org/content/349/6251/aac4716&quot;&gt;Reproducibility Project: Psychology&lt;/a&gt;” attempted to replicate 100 papers published in three top psychology journals in 2008. &lt;a href=&quot;https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248&quot;&gt;&lt;strong&gt;39%&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;of papers successfully replicated).&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0167487018303283#b0280&quot;&gt;The Many Labs Projects 1, 2, and 3&lt;/a&gt; performed &lt;a href=&quot;https://www.replicationmarkets.com/index.php/2019/06/24/what-is-high-powered-replication/&quot;&gt;ideal,&lt;/a&gt; high-&lt;a href=&quot;https://www.replicationmarkets.com/index.php/2019/06/24/what-is-high-powered-replication/&quot;&gt;quality replications&lt;/a&gt; (i.e., multiple labs attempted to replicate findings). The replication rates were 77%, 50%, and 30%, respectively. The total replication rate (i.e., the weighted sum) was &lt;strong&gt;53%&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;other-metrics-of-epistemic-hygiene&quot;&gt;Other Metrics of Epistemic Hygiene&lt;/h4&gt;
+&lt;h3 id=&quot;other-metrics-of-epistemic-hygiene&quot;&gt;Other Metrics of Epistemic Hygiene&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Economics:&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;economics&quot;&gt;Economics&lt;/h4&gt;
 
 &lt;p&gt;Economists have been discussing replication for &lt;a href=&quot;https://www.nber.org/papers/w13026&quot;&gt;quite a while.&lt;/a&gt;&lt;/p&gt;
 
@@ -244,40 +249,39 @@
   
   &lt;cite&gt;&lt;a href=&quot;http://ftp.iza.org/dp7268.pdf&quot;&gt;Brodeur et al., 2016&lt;/a&gt;&lt;/cite&gt;
 &lt;/blockquote&gt;
-&lt;figure class=&quot;wp-block-image&quot;&gt;
 
-&lt;img loading=&quot;lazy&quot; width=&quot;620&quot; height=&quot;694&quot; src=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/p_hacking_econ.png?resize=620%2C694&amp;#038;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-1372&quot; srcset=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/p_hacking_econ.png?w=744&amp;amp;ssl=1 744w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/p_hacking_econ.png?resize=268%2C300&amp;amp;ssl=1 268w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; data-recalc-dims=&quot;1&quot; /&gt; &lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;If there weren’t publication bias, we’d expect the distribution of z-statistics to smoothly decrease, approximating the tail of a normal distribution.&lt;figure class=&quot;wp-block-image is-resized&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt; 
+    &lt;img src=&quot;/assets/img/p_hacking_econ.png&quot; loading=&quot;lazy&quot; style=&quot;max-width: 80%; max-height: 75%; display: block; margin: 0 auto;&quot; /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; src=&quot;https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z-scores.png?resize=434%2C397&amp;#038;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-1395&quot; width=&quot;434&quot; height=&quot;397&quot; srcset=&quot;https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z-scores.png?w=578&amp;amp;ssl=1 578w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z-scores.png?resize=300%2C275&amp;amp;ssl=1 300w&quot; sizes=&quot;(max-width: 434px) 100vw, 434px&quot; data-recalc-dims=&quot;1&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;p&gt;If there weren’t publication bias, we’d expect the distribution of z-statistics to smoothly decrease, approximating the tail of a normal distribution.&lt;/p&gt;
 
-&lt;p&gt;Additionally, certain “causal” inference methods in economics, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Difference_in_differences&quot;&gt;difference in differences&lt;/a&gt;—exploiting natural experiments in longitudinal data, e.g., the effects of a new state policy on some outcome—seem to be particularly &lt;a href=&quot;http://ftp.iza.org/dp11796.pdf&quot;&gt;prone to publication bias and p-hacking&lt;/a&gt;. Whereas, randomized controlled trials (the gold standard of causal inference) and regression discontinuity (using putatively random, exogenous treatments to mimic an RCT) don’t demonstrate the same degree of publication bias.&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Additionally, certain “causal” inference methods in economics, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Difference_in_differences&quot;&gt;difference in differences&lt;/a&gt;—exploiting natural experiments in longitudinal data, e.g., the effects of a new state policy on some outcome—seem to be particularly &lt;a href=&quot;http://ftp.iza.org/dp11796.pdf&quot;&gt;prone to publication bias and p-hacking&lt;/a&gt;. Whereas, randomized controlled trials (the gold standard of causal inference) and regression discontinuity (using putatively random, exogenous treatments to mimic an RCT) don’t demonstrate the same degree of publication bias.&lt;/p&gt;
 
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;620&quot; height=&quot;515&quot; src=&quot;https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z_density_econ_methods.png?resize=620%2C515&amp;#038;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-1371&quot; srcset=&quot;https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z_density_econ_methods.png?w=871&amp;amp;ssl=1 871w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z_density_econ_methods.png?resize=300%2C249&amp;amp;ssl=1 300w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z_density_econ_methods.png?resize=768%2C638&amp;amp;ssl=1 768w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; data-recalc-dims=&quot;1&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-left&quot;&gt;
-  In the above graph, the stars correspond to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Z-test&quot;&gt;z-scores&lt;/a&gt; that give p-values of 0.1, 0.05, and 0.01.
-&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img loading=&quot;lazy&quot; src=&quot;/assets/img/z_density_econ_methods.png&quot; alt=&quot;&quot; style=&quot;max-width: 80%; max-height: 75%; display: block; margin: 0 auto;&quot; /&gt; 
+&lt;div class=&quot;caption&quot;&gt;
+        The stars correspond to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Z-test&quot;&gt;z-scores&lt;/a&gt; for p-values of 0.1, 0.05, and 0.01.
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Effect sizes in economics are &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12461&quot;&gt;wildly overestimated&lt;/a&gt;, too.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Psychology:&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;psychology&quot;&gt;Psychology&lt;/h4&gt;
 
 &lt;p&gt;I’m pretty sure most academics have heard about the psychology replication crisis; there’s a lot of talk about it. Given this and the fact that there have been many more replication efforts in psychology than in other fields, I’ll just stick to the empirical data for my priors.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Education:&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;education&quot;&gt;Education&lt;/h4&gt;
 
 &lt;p&gt;With the exception of &lt;a href=&quot;https://adamlgreen.com/smpy/&quot;&gt;research on exceptional children&lt;/a&gt; and educational acceleration/tracking (as they’re grounded in strong psychometric foundations), most education research won’t replicate, I imagine.&lt;/p&gt;
 
 &lt;p&gt;Per &lt;a href=&quot;https://www.insidehighered.com/news/2014/08/14/almost-no-education-research-replicated-new-article-shows&quot;&gt;Inside Higher Ed&lt;/a&gt;, “Only 0.13 percent of education articles published in the field’s top 100 journals are replications, write Matthew Makel, a gifted-education research specialist at Duke University, and Jonathan Plucker, a professor of educational psychology and cognitive science at Indiana University. In psychology, by contrast, 1.07 percent of studies in the field’s top 100 journals are replications, a 2012 study found.”&lt;/p&gt;
 
-&lt;p&gt;Education research also places a premium on novelty (which is what happens when you’re grasping at straws for an education intervention that produces long-lasting, positive effects):&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Education research also places a premium on novelty (which is what happens when you’re grasping at straws for an education intervention that produces long-lasting, positive effects):&lt;/p&gt;
 
-&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
-  &lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;50%&quot; src=&quot;https://www.youtube.com/embed/zIUQK1yD95M&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;With regard to specific replication failures in education research, growth mindset comes to mind (which I suppose is part of Psychology, too). Though initially hyped (TED talks and all), the most recent, largest replication studies have all flopped, demonstrating tiny effect sizes. Five days after posting a preprint of one such massive replication, the authors took the preprint down:&lt;/p&gt;
 
@@ -289,14 +293,11 @@
   &lt;a href=&quot;https://twitter.com/Russwarne/status/1107555420636274688?ref_src=twsrc%5Etfw&quot;&gt;March 18, 2019&lt;/a&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;When pressed about the minuscule effect sizes, Dweck (the researcher who popularized mindset theory) was evasive:&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;When pressed about the minuscule effect sizes, Dweck (the researcher who popularized mindset theory) was evasive:&lt;/p&gt;
 
-&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
-  &lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;50%&quot; src=&quot;https://www.youtube.com/embed/dxsLmCNlwpk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Dweck is just a single bad-faith actor (*cough* &lt;a href=&quot;https://twitter.com/Russwarne/status/1159594269818138624?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1159594269818138624&amp;amp;ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps%253A%252F%252Ftwitter.com%252FRusswarne%252Fstatus%252F1159594269818138624%26widget%3DTweet&quot;&gt;financial incentives&lt;/a&gt; *cough*) in education/psychology research; she doesn’t represent the field as a whole. But the fact that growth mindset theory has been taken seriously for this long and still won’t die suggests that education research is hostile to dissent and has bad epistemic hygiene.&lt;/p&gt;
+&lt;p&gt;Dweck is just a single bad-faith actor (*cough* &lt;a href=&quot;https://www.allamericanspeakers.com/speakers/9233/Carol-Dweck#:~:text=Carol%20Dweck%20is%20a%20keynote,your%20event%20is%20%2430%2C000%20%2D%20%2450%2C000.&quot;&gt;financial incentives&lt;/a&gt; *cough*) in education/psychology research; she doesn’t represent the field as a whole. But the fact that growth mindset theory has been taken seriously for this long and still won’t die suggests that education research is hostile to dissent and has bad epistemic hygiene.&lt;/p&gt;
 
 &lt;p&gt;Other educational claims that have failed, are p-hacked to death, or have inflated/overhyped effect sizes (that I can recall off the top of my head):&lt;/p&gt;
 
@@ -306,7 +307,7 @@
   &lt;li&gt;Early-life educational interventions to improve academic outcomes (viz., the work of Heckmann); these interventions seem to have a positive effect on non-academic outcomes, though. That said, the literature is &lt;a href=&quot;https://rpubs.com/EmilOWK/pub_bias_early_intervention&quot;&gt;rife with publication bias&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Criminology and Sociology:&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;criminology-and-sociology&quot;&gt;Criminology and Sociology&lt;/h4&gt;
 
 &lt;blockquote class=&quot;wp-block-quote&quot;&gt;
   &lt;p&gt;
@@ -326,20 +327,16 @@
   &lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Unsurprisingly, like in most social sciences, &lt;a href=&quot;https://www.gwern.net/docs/statistics/bias/2008-gerber.pdf&quot;&gt;we see evidence&lt;/a&gt; of publication bias:&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;620&quot; height=&quot;557&quot; src=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/soc_pub_bias.png?resize=620%2C557&amp;#038;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-1376&quot; srcset=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/soc_pub_bias.png?w=658&amp;amp;ssl=1 658w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/soc_pub_bias.png?resize=300%2C269&amp;amp;ssl=1 300w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; data-recalc-dims=&quot;1&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Political Science:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I don’t know much about political science, but it seems to have had its fair share of shoddy findings and &lt;a href=&quot;https://www.nytimes.com/2015/05/26/science/maligned-study-on-gay-marriage-is-shaking-trust.htmlhttps://www.nytimes.com/2015/05/26/science/maligned-study-on-gay-marriage-is-shaking-trust.html&quot;&gt;data fabrication&lt;/a&gt;. That said, researchers have responded with &lt;a href=&quot;https://politicalsciencereplication.wordpress.com/2018/07/14/replication-and-transparency-in-political-science-did-we-make-any-progress/&quot;&gt;calls for better epistemic hygiene practices&lt;/a&gt; and journals have adjusted accordingly. There’s even an &lt;a href=&quot;https://dataverse.harvard.edu/dataverse/gov2001&quot;&gt;active page&lt;/a&gt; with replications of prominent political science papers.&lt;figure class=&quot;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
-  &lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;
+&lt;p&gt;Unsurprisingly, like in most social sciences, &lt;a href=&quot;https://www.gwern.net/docs/statistics/bias/2008-gerber.pdf&quot;&gt;we see evidence&lt;/a&gt; of publication bias:&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt;
+    &lt;img src=&quot;/assets/img/soc_pub_bias.png&quot; loading=&quot;lazy&quot; style=&quot;max-width: 80%; max-height: 75%; display: block; margin: 0 auto;&quot; /&gt;
 &lt;/div&gt;
-&lt;p&gt;&amp;lt;/figure&amp;gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Management and Marketing&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;political-science&quot;&gt;Political Science&lt;/h4&gt;
+
+&lt;p&gt;I don’t know much about political science, but it seems to have had its fair share of shoddy findings and &lt;a href=&quot;https://www.nytimes.com/2015/05/26/science/maligned-study-on-gay-marriage-is-shaking-trust.htmlhttps://www.nytimes.com/2015/05/26/science/maligned-study-on-gay-marriage-is-shaking-trust.html&quot;&gt;data fabrication&lt;/a&gt;. That said, researchers have responded with &lt;a href=&quot;https://politicalsciencereplication.wordpress.com/2018/07/14/replication-and-transparency-in-political-science-did-we-make-any-progress/&quot;&gt;calls for better epistemic hygiene practices&lt;/a&gt; and journals have adjusted accordingly. There’s even an &lt;a href=&quot;https://dataverse.harvard.edu/dataverse/gov2001&quot;&gt;active page&lt;/a&gt; with replications of prominent political science papers.&lt;/p&gt;
+
+&lt;h4 id=&quot;management-and-marketing&quot;&gt;Management and Marketing&lt;/h4&gt;
 
 &lt;p&gt;Management and Marketing (M&amp;amp;M) seem to be a mix of social psychology, industrial/organizational &lt;a href=&quot;https://www.apa.org/ed/graduate/specialize/industrial&quot;&gt;(IO) psych&lt;/a&gt;, and political science. For example, one of the &lt;a href=&quot;https://academic.oup.com/jpart/article/27/1/197/2629303&quot;&gt;most cited articles&lt;/a&gt; in a top M&amp;amp;M journal showcases some priming interaction effects, which is essentially something straight out psychology (that, we should note, hasn’t had the best replication record). So, we might imagine that the replication rate of M&amp;amp;M will be equal to that of psychology.&lt;/p&gt;
 
@@ -347,7 +344,7 @@
 
 &lt;p&gt;My impression is that &lt;strong&gt;Replication Markets participants are systematically underpredicting the replicability of research in Management and Marketing&lt;/strong&gt;, probably because many of them are technical types allergic to business, marketing, and soft skills (even though most M&amp;amp;M papers aren’t specifically about those topics). This presents an interesting opportunity.&lt;/p&gt;
 
-&lt;h4 id=&quot;my-priors&quot;&gt;My Priors&lt;/h4&gt;
+&lt;h3 id=&quot;my-replication-priors&quot;&gt;My Replication Priors&lt;/h3&gt;
 
 &lt;p&gt;So, I’ll put my money where my mouth is (metaphorically, as there is no financial downside, just opportunity cost and being wrong) and provide my replication base rates:&lt;/p&gt;
 
@@ -363,21 +360,26 @@
 
 &lt;p&gt;&lt;strong&gt;Education Research:&lt;/strong&gt; 40 ± 10% (I hope my priors aren’t too influenced by my research on the topic)&lt;/p&gt;
 
-&lt;h2 id=&quot;will-replication-rates-vary-significantly-by-year&quot;&gt;Will Replication Rates Vary Significantly By Year?&lt;/h2&gt;
+&lt;h3 id=&quot;will-replication-rates-vary-significantly-by-year&quot;&gt;Will Replication Rates Vary Significantly By Year?&lt;/h3&gt;
 
 &lt;p&gt;One might intuit that as norms around scientific best practice change, so too will the quality of science. How could we confirm this before the replications are attempted?&lt;/p&gt;
 
-&lt;p&gt;A naïve approach would be to look at Google search term trends over time. For example, here are the trends for “psychology replication” and “open science” from 2004 to 2019:&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;A naïve approach would be to look at Google search term trends over time. For example, here are the trends for “psychology replication” and “open science” from 2004 to 2019:&lt;/p&gt;
 
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;1676&quot; height=&quot;841&quot; src=&quot;https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?fit=640%2C321&quot; alt=&quot;&quot; class=&quot;wp-image-1379&quot; srcset=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?w=1676&amp;amp;ssl=1 1676w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=1024%2C514&amp;amp;ssl=1 1024w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=300%2C151&amp;amp;ssl=1 300w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=768%2C385&amp;amp;ssl=1 768w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=900%2C452&amp;amp;ssl=1 900w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=1280%2C642&amp;amp;ssl=1 1280w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img loading=&quot;lazy&quot; src=&quot;/assets/img/Untitled-picture.png&quot; alt=&quot;&quot; style=&quot;max-width: 80%; max-height: 75%; display: block; margin: 0 auto;&quot; /&gt; 
+&lt;/div&gt;
 
-&lt;p&gt;A better approach would be to look at trends in journal articles, as these are written by those who actually write the journal articles. Using &lt;a href=&quot;https://app.dimensions.ai/analytics/publication/overview/timeline?search_text=replication%20AND%20psychology&amp;amp;search_type=kws&amp;amp;search_field=full_search&quot;&gt;Dimensions.ai&lt;/a&gt;, we see that use of the terms “replication” and “psychology” in publications has gone up over time, doubling between 2010 and 2018:&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Here are the number of publications mentioning both “psychology” and “replication”:&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img loading=&quot;lazy&quot; src=&quot;/assets/img/dimensions_psych_final.png&quot; alt=&quot;&quot; style=&quot;max-width: 80%; max-height: 75%; display: block; margin: 0 auto;&quot; /&gt; 
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;620&quot; height=&quot;423&quot; src=&quot;https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?resize=620%2C423&amp;#038;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-1378&quot; srcset=&quot;https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?w=930&amp;amp;ssl=1 930w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?resize=300%2C205&amp;amp;ssl=1 300w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?resize=768%2C524&amp;amp;ssl=1 768w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?resize=900%2C615&amp;amp;ssl=1 900w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; data-recalc-dims=&quot;1&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;p&gt;Likewise with &lt;a href=&quot;https://app.dimensions.ai/analytics/publication/overview/timeline?search_text=replication%20AND%20economics&amp;amp;search_type=kws&amp;amp;search_field=full_search&quot;&gt;economics&lt;/a&gt;, which has seen a similar 2x increase for publications mentioning both “economics” and “replication”:&lt;/p&gt;
 
-&lt;p&gt;Likewise with &lt;a href=&quot;https://app.dimensions.ai/analytics/publication/overview/timeline?search_text=replication%20AND%20economics&amp;amp;search_type=kws&amp;amp;search_field=full_search&quot;&gt;economics&lt;/a&gt;, which has seen a similar 2x increase:&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img loading=&quot;lazy&quot; width=&quot;620&quot; height=&quot;421&quot; src=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?resize=620%2C421&amp;#038;ssl=1&quot; alt=&quot;&quot; class=&quot;wp-image-1380&quot; srcset=&quot;https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?w=930&amp;amp;ssl=1 930w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?resize=300%2C204&amp;amp;ssl=1 300w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?resize=768%2C521&amp;amp;ssl=1 768w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?resize=900%2C611&amp;amp;ssl=1 900w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; data-recalc-dims=&quot;1&quot; /&gt; &amp;lt;/figure&amp;gt;&lt;/p&gt;
+&lt;div class=&quot;figure&quot;&gt;
+&lt;img loading=&quot;lazy&quot; src=&quot;/assets/img/dimensions_econ_final.png&quot; alt=&quot;&quot; style=&quot;max-width: 80%; max-height: 75%; display: block; margin: 0 auto;&quot; /&gt; 
+&lt;/div&gt;
 
 &lt;p&gt;The trends look similar for all other social science fields being replicated in SCORE. However, these graphs show total publications over time, which increase as the fields grow larger. &lt;strong&gt;If we compare these trends to the number of publications in the fields as a whole, we see that the number of publications with the term “replication” has kept pace with the field (that is, it hasn’t accelerated).&lt;/strong&gt; &lt;/p&gt;
 
@@ -397,7 +399,7 @@
 
 &lt;p&gt;However, if we have subject-matter expertise, or are willing to do a bit of digging, we might take the inside view and update these priors accordingly.&lt;/p&gt;
 
-&lt;h3 id=&quot;general-principles&quot;&gt;General Principles&lt;/h3&gt;
+&lt;h3 id=&quot;rules-of-thumb&quot;&gt;Rules of Thumb&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -420,10 +422,8 @@
     Various things ought to heighten suspicion that a statistically significant interaction effect has a strong likelihood of not being “real.” Results that imply a plot like the one above practically scream “THIS RESULT WILL NOT REPLICATE.” There are so many ways of dividing a sample into subgroups, and there are so many variables in a typical dataset that have low correlation with an outcome, that it is inevitable that there will be all kinds of little pockets for high correlation for some subgroup just by chance.
   &lt;/p&gt;
   
-  &lt;cite&gt;&amp;lt;a href=&quot;https://scatter.wordpress.com/2008/08/19/lil-didactic-aside/&amp;gt; &amp;#8220;&amp;gt;Jeremy Freese&amp;lt;/a&amp;gt;&lt;/cite&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;4-use-your-gut-and-have-fun&quot;&gt;4. Use your gut and have fun!&lt;/h4&gt;</content><author><name></name></author><summary type="html">What are Replication Markets?</summary></entry><entry><title type="html">Radical Educational Meritocracy: An Ethical and Empirical Defense</title><link href="https://adamlgreen.com/education-policy/" rel="alternate" type="text/html" title="Radical Educational Meritocracy: An Ethical and Empirical Defense" /><published>2019-07-01T08:36:09-04:00</published><updated>2019-07-01T08:36:09-04:00</updated><id>https://adamlgreen.com/education-policy</id><content type="html" xml:base="https://adamlgreen.com/education-policy/">&lt;blockquote&gt;
+  &lt;cite&gt; &lt;a href=&quot;https://scatter.wordpress.com/2008/08/19/lil-didactic-aside&quot;&gt; Jeremy Freese &lt;/a&gt;&lt;/cite&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">What are Replication Markets?</summary></entry><entry><title type="html">Radical Educational Meritocracy: An Ethical and Empirical Defense</title><link href="http://localhost:4000/education-policy/" rel="alternate" type="text/html" title="Radical Educational Meritocracy: An Ethical and Empirical Defense" /><published>2019-07-01T08:36:09-04:00</published><updated>2019-07-01T08:36:09-04:00</updated><id>http://localhost:4000/education-policy</id><content type="html" xml:base="http://localhost:4000/education-policy/">&lt;blockquote&gt;
   &lt;p&gt;
     “The natural distribution is neither just nor unjust; nor is it unjust that persons are born into society at some particular position. These are simply natural facts. What is just and unjust is the way that institutions deal with these facts.”
   &lt;/p&gt;
@@ -468,7 +468,7 @@
 &lt;p&gt;Note: This essay presumes familiarity with behavioral genetics. For a brief primer, check out &lt;a href=&quot;https://quillette.com/2018/09/25/forget-nature-versus-nurture-nature-has-won/&quot;&gt;this review&lt;/a&gt; of Robert Plomin’s book, &lt;em&gt;Blueprint&lt;/em&gt;. To make a long story short, in the past 5-10 years, due to a steep decline in the cost of genotyping (sequencing a set of genetic markers) and studies done on this genetic data, we are quickly developing genetic predictors (called polygenic scores, PGS, or PRS) of traits like educational attainment (EA). These predictors currently explain around &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/30038396&quot;&gt;13% of the variance in educational attainment&lt;/a&gt;, which is as predictive as knowing one’s parental income level.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;&quot; id=&quot;steelmanning&quot;&gt; &lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;steelmanning-harden-on-equity&quot;&gt;Steelmanning Harden on Equity&lt;/h3&gt;
+&lt;h2 id=&quot;steelmanning-harden-on-equity&quot;&gt;Steelmanning Harden on Equity&lt;/h2&gt;
 
 &lt;p&gt;The &lt;a href=&quot;https://www.oecd.org/education/school/50293148.pdf&quot;&gt;OECD definition&lt;/a&gt; of educational equity that Harden cites has two components: inclusion—“ensuring that all students reach at least a basic minimum level of skills”—and fairness—“personal or socio-economic circumstances, such as gender, ethnic origin or family background are not obstacles to educational success” (p. 15). On its face, both aspects of educational equity seem laudable. We want an informed citizenry that is able to do basic math, reading and science; and we don’t want there to be personal or socio-economic impediments to educational success. &lt;/p&gt;
 
@@ -480,7 +480,7 @@
 
 &lt;p&gt;Our current, &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/30038396&quot;&gt;rudimentary genetic predictors&lt;/a&gt; of educational attainment are useful at the population level, not the individual level. &lt;em&gt;On average,&lt;/em&gt; individuals with higher polygenic scores for educational attainment tend to &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4946990/&quot;&gt;be more economically mobile&lt;/a&gt; regardless of childhood socioeconomic status, for example. As stated in &lt;a href=&quot;https://www.biorxiv.org/content/biorxiv/early/2019/04/05/598532.full.pdf&quot;&gt;a paper&lt;/a&gt; Harden was co-lead author on, “Integrating genetic information in educational research also has the potential to introduce a novel source of data for researchers and policymakers interested in estimating schooling effects on the distribution of student outcomes.” For example, we might be able to use school-wide PGS heritability figures to ensure as level a playing field as possible; this will maximize the chance that all students reach the basic minimum level of skills (inclusion) and that family background won’t be an impediment to educational success (fairness). &lt;/p&gt;
 
-&lt;h3 id=&quot;equality-of-outcome-and-opportunity&quot;&gt;Equality of Outcome and Opportunity&lt;/h3&gt;
+&lt;h2 id=&quot;equality-of-outcome-and-opportunity&quot;&gt;Equality of Outcome and Opportunity&lt;/h2&gt;
 
 &lt;p&gt;I agree with most of what I stated in my recapitulation of Harden’s views on behavioral genetic research. I hope she’d agree, too. However, our intuitions differ on how this research can and should be applied to the goal of equity. Here I’ll outline the doubts I have.&lt;/p&gt;
 
@@ -506,6 +506,8 @@
 
 &lt;p&gt;The second reason true equality of opportunity is impossible is that we don’t have unlimited educational resources, so we can’t realistically give any individual all the help and time they need. At the elementary and secondary level, total US public education spending &lt;a href=&quot;https://nces.ed.gov/programs/coe/indicator_cmb.asp&quot;&gt;amounted to $700 billion&lt;/a&gt; (nearly $14,000 per student) in 2015-16. Bryan Caplan and others &lt;a href=&quot;https://press.princeton.edu/titles/11225.html&quot;&gt;have argued&lt;/a&gt; that much of this spending is bloat. Yet even if you don’t buy that argument, it seems that throwing more money at the problem won’t solve it, considering how much money is already being spent.&lt;/p&gt;
 
+&lt;h3 id=&quot;us-educational-reform-attempts-to-achieve-equality-of-opportunity&quot;&gt;US Educational Reform: Attempts to Achieve Equality of Opportunity&lt;/h3&gt;
+
 &lt;p&gt;One might retort that we don’t know that equality of opportunity is impossible since we’ve never really attempted it. However, this is largely wrong. Efforts to help the worst students improve their academic performance—i.e., our best approximations of equality of opportunity—have been numerous, yet all these efforts have failed. &lt;/p&gt;
 
 &lt;p&gt;In the US, they began with the &lt;a href=&quot;https://socialwelfare.library.vcu.edu/programs/education/elementary-and-secondary-education-act-of-1965/&quot;&gt;Elementary and Secondary Education Act (ESEA)&lt;/a&gt;, signed into law by President Lyndon B. Johnson in 1965, as part of the &lt;a href=&quot;https://en.wikipedia.org/wiki/War_on_Poverty&quot;&gt;War on Poverty&lt;/a&gt;. Title 1 of this act disbursed money to school districts with a high proportion of disadvantaged students, in an attempt to close achievement gaps. Unfortunately, the ESEA didn’t achieve its intended effect (if it had, we likely wouldn’t be talking about equality of opportunity right now). &lt;/p&gt;
@@ -516,7 +518,7 @@
 
 &lt;p&gt;This isn’t to say no progress has been made: &lt;a href=&quot;https://www.nationsreportcard.gov/reading_math_2017_highlights/&quot;&gt;from 1990 to 2017&lt;/a&gt;, the 4th-grade average NAEP math scores increased from the &lt;em&gt;Basic&lt;/em&gt; level to almost the &lt;em&gt;Proficient&lt;/em&gt; level. However, the average reading score has barely improved during the same period. But lest we attribute these gains to NCLB, the majority of mathematics gains were made from 1990-2003, before NCLB came into full effect. Worst of all, it seems that the highest performing students are the ones improving the most, both in reading and math, whereas the lowest-performing students’ floundering only worsens. That is, the gap between the best- and worst-performing students continues to widen.&lt;/p&gt;
 
-&lt;h3 id=&quot;deconstructing-the-debate&quot;&gt;Deconstructing the Debate&lt;/h3&gt;
+&lt;h2 id=&quot;deconstructing-the-debate&quot;&gt;Deconstructing the Debate&lt;/h2&gt;
 
 &lt;p&gt;Though disheartening, none of these findings on the failures of educational interventions are terribly surprising given what we know about the behavioral genetics of educational attainment and intelligence.&lt;/p&gt;
 
@@ -526,7 +528,7 @@
 
 &lt;p&gt;Genetics research and the history of educational interventions considerably constrain the space of reasonable answers to these questions. That said, there’s still room for difference of opinion on the empirical and ethical assumptions underlying our answers to these questions. Here I’ll lay out the substantive dimensions along which these assumptions can differ.&lt;/p&gt;
 
-&lt;h5 id=&quot;empirical-dimensions-to-disagree-on&quot;&gt;Empirical Dimensions To Disagree On &lt;/h5&gt;
+&lt;h3 id=&quot;empirical-dimensions-to-disagree-on&quot;&gt;Empirical Dimensions To Disagree On &lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Human Capital Development&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -554,7 +556,7 @@
 
 &lt;p&gt;Are “&lt;a href=&quot;https://irs.princeton.edu/sites/irs/files/event/uploads/robots_and_jobs_march_3.17.2017_final.pdf&quot;&gt;robots really taking our jobs&lt;/a&gt;” and is &lt;a href=&quot;https://a16z.com/2011/08/20/why-software-is-eating-the-world/&quot;&gt;“software eating the world”&lt;/a&gt;? Is this trend going to accelerate? Will this trend disproportionately affect those with little education and prospects of retraining for a new job?&lt;/p&gt;
 
-&lt;h5 id=&quot;ethical-dimensions-to-disagree-on&quot;&gt;Ethical Dimensions to Disagree On&lt;/h5&gt;
+&lt;h3 id=&quot;ethical-dimensions-to-disagree-on&quot;&gt;Ethical Dimensions to Disagree On&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Discounting Rate of Future Lives&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -574,15 +576,15 @@
 
 &lt;p&gt;How much should we cut the educational budget? Where do we situate education in our list of priorities?&lt;/p&gt;
 
-&lt;h3 id=&quot;three-visions-for-k-12-public-education&quot;&gt;Three Visions for K-12 Public Education&lt;/h3&gt;
+&lt;h2 id=&quot;three-visions-for-k-12-public-education&quot;&gt;Three Visions for K-12 Public Education&lt;/h2&gt;
 
 &lt;p&gt;Here I situate three visions—two commonly held and one novel—along the dimensions I’ve outlined. &lt;/p&gt;
 
-&lt;h5 id=&quot;the-egalitarian-vision&quot;&gt;&lt;strong&gt;The Egalitarian Vision&lt;/strong&gt;&lt;/h5&gt;
+&lt;h3 id=&quot;the-egalitarian-vision&quot;&gt;&lt;strong&gt;The Egalitarian Vision&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Let’s get unrealistic views off the table. Many people, who are unaware of behavioral genetics research, believe some element of what we can call “the egalitarian vision.” This vision states that, on the empirical front, intelligence is completely malleable and the achievement gap will be closed if we use enough educational resources, and, on the ethical front, that we should attempt to redress educational inequality at all costs. Charles Murray called this ideology “educational romanticism…The lie is that every child can be anything he or she wants to be” (&lt;em&gt;Real Education&lt;/em&gt;, p. 11). Anyone who proffers these sorts of views is the &lt;a href=&quot;https://www.youtube.com/watch?v=jgRU67lwsI4&quot;&gt;ideological suicide bomber being invited to dinner&lt;/a&gt;: they don’t deserve a place at the table because they won’t engage with the empirical evidence, stifling fruitful conversation. So, we needn’t give this scheme any more thought.&lt;/p&gt;
 
-&lt;h5 id=&quot;the-rawlsian-vision-and-noble-lies&quot;&gt;&lt;strong&gt;The Rawlsian Vision and Noble Lies&lt;/strong&gt;&lt;/h5&gt;
+&lt;h3 id=&quot;the-rawlsian-vision-and-noble-lies&quot;&gt;&lt;strong&gt;The Rawlsian Vision and Noble Lies&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;What I’ll call the “Rawlsian vision” attempts to reconcile egalitarian ethics with realism about behavioral genetics. One might also call this &lt;a href=&quot;https://en.wikipedia.org/wiki/Luck_egalitarianism&quot;&gt;luck egalitarianism&lt;/a&gt;. According to luck egalitarianism, we should create institutions that strive to minimize opportunities and power that come from undeserved advantages, such as genetic endowment or other happenstance of birth (like being born in a first-world country). Per Rawls, this type of &lt;a href=&quot;https://eportfolios.macaulay.cuny.edu/thorne15/files/2015/03/Rawls-JUSTICE-AS-FAIRNESS.pdf&quot;&gt;fairness&lt;/a&gt; constitutes a just world. &lt;/p&gt;
 
@@ -618,7 +620,7 @@
 
 &lt;p&gt;Clearly, Plomin understands behavior genetics; as he has been working on the &lt;a href=&quot;https://en.wikipedia.org/wiki/Twins_Early_Development_Study&quot;&gt;Twins’ Early Development Study&lt;/a&gt; for 25 years. Yet, for whatever reason, he chooses to tell &lt;a href=&quot;https://en.wikipedia.org/wiki/Noble_lie&quot;&gt;noble lies&lt;/a&gt; (or, in the case of &lt;em&gt;Blueprint&lt;/em&gt;, chooses to stay silent about the policy implications of his research). &lt;/p&gt;
 
-&lt;h5 id=&quot;radical-meritocracy-a-pessimistic-utilitarian-care--and-fairness-insensitive-take-on-education&quot;&gt;&lt;strong&gt;Radical Meritocracy: A Pessimistic, Utilitarian, Care- and Fairness-Insensitive Take on Education&lt;/strong&gt;&lt;/h5&gt;
+&lt;h3 id=&quot;radical-meritocracy-a-pessimistic-utilitarian-care--and-fairness-insensitive-take-on-education&quot;&gt;&lt;strong&gt;Radical Meritocracy: A Pessimistic, Utilitarian, Care- and Fairness-Insensitive Take on Education&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;blockquote class=&quot;wp-block-quote&quot;&gt;
   &lt;p&gt;
@@ -649,7 +651,7 @@
 
 &lt;p&gt;I’ll call this system radical educational meritocracy (which I’ll henceforth refer to as “radical meritocracy”). The term meritocracy was coined by &lt;a href=&quot;https://www.theguardian.com/politics/2001/jun/29/comment&quot;&gt;Michael Young&lt;/a&gt; in his 1958 science-fiction satire, &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Rise_of_the_Meritocracy&quot;&gt;&lt;em&gt;The Rise of the Meritocracy&lt;/em&gt;&lt;/a&gt;. Many consider the book’s vision to be that of a dystopia, demonstrating the folly of an administrative state’s attempt to use intelligence testing to optimize collective performance. However, if radical meritocracy were executed properly, something which is becoming more feasible, I believe it would maximize collective utility over the long-run.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Motivations and Premises of Radical Meritocracy&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;motivations-underlying-radical-meritocracy&quot;&gt;Motivations Underlying Radical Meritocracy&lt;/h4&gt;
 
 &lt;p&gt;Radical meritocracy is motivated by a sense of urgency about the following two trends:&lt;/p&gt;
 
@@ -660,11 +662,11 @@
 
 &lt;p&gt;Here I’ll quickly address why we should feel a sense of urgency about these two issues:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Automation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Automation&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Though the U.S. unemployment rate is at a record low, 3.6%, the labor force participation rate has been &lt;a href=&quot;https://www.bls.gov/charts/employment-situation/civilian-labor-force-participation-rate.htm&quot;&gt;steadily declining since the mid to late 90’s&lt;/a&gt;. From 1979-2007, &lt;a href=&quot;https://economics.mit.edu/files/5554&quot;&gt;employment rates fell most&lt;/a&gt; for males who dropped out of or only graduated from high school. And though we’re currently in the &lt;a href=&quot;https://www.economist.com/leaders/2019/05/23/the-rich-world-is-enjoying-an-unprecedented-jobs-boom&quot;&gt;midst of a jobs boom&lt;/a&gt;, one in which &lt;a href=&quot;https://www.economist.com/united-states/2019/05/16/american-life-is-improving-for-the-lowest-paid&quot;&gt;weekly nominal earnings&lt;/a&gt; have been increasing for the lowest earners, many of the jobs being created are low-skill or temporary jobs (which &lt;a href=&quot;https://www.wsj.com/articles/available-jobs-in-u-s-edge-higher-in-october-1544457618&quot;&gt;few people want to do&lt;/a&gt;). The prospects of job reskilling programs &lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/1045159518818407&quot;&gt;are dismal&lt;/a&gt;—so it seems the truckers and journalists won’t “learn to code” any time soon—and for the majority of workers, automation has become more a &lt;a href=&quot;https://www.brookings.edu/wp-content/uploads/2018/03/1_autorsalomons.pdf&quot;&gt;force of labor displacement than of labor augmentation&lt;/a&gt;. Whatever the cause of these trends, the low-skilled, poorly educated worker is taking the brunt of it, and a substantial proportion of &lt;a href=&quot;https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages#part1&quot;&gt;white-collar workers&lt;/a&gt; might soon be as well. &lt;a href=&quot;https://www.brookings.edu/blog/social-mobility-memos/2013/10/15/not-afraid-of-tyler-cowen-you-will-be-a-review-of-average-is-over-powering-america-beyond-the-age-of-the-great-stagnation/&quot;&gt;Average will soon be over&lt;/a&gt;. That said, it bodes well for those who perform &lt;a href=&quot;https://academic.oup.com/qje/article-abstract/118/4/1279/1925105&quot;&gt;cognitive, non-routine work&lt;/a&gt; and skilled &lt;a href=&quot;https://en.wikipedia.org/wiki/Moravec%27s_paradox&quot;&gt;manual&lt;/a&gt; trades.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Existential Risk:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Existential Risk&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;For a variety of reasons—the existence of the Fermi Paradox, our close brushes with nuclear war in the second half of the 20th century, the ease with which bad actors can now develop dangerous bioweapons, etc.—we should be worried about existential risk.&lt;/p&gt;
 
@@ -682,7 +684,7 @@
 
 &lt;p&gt;If we don’t build these technologies and institutions that allow us to crest the hill and reduce the ambient level of existential risk, given a long enough time horizon it seems the only alternative outcomes are stagnation (which is unlikely given our expanding technological capacities) or annihilation (i.e., we are hit with an existential risk which either wipes out humanity or reverts us back to an earlier technological age). Neither of these outcomes is desirable, especially the latter, so we should highly value getting over the hump of the existential risk curve.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Empirical and Ethical Premises&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;empirical-and-ethical-premises&quot;&gt;Empirical and Ethical Premises&lt;/h4&gt;
 
 &lt;p&gt;On the empirical front, my other premises are: education is a zero-sum, &lt;a href=&quot;https://en.wikipedia.org/wiki/Positional_good&quot;&gt;positional good&lt;/a&gt; mostly &lt;a href=&quot;http://www.aei.org/publication/the-case-against-education-a-long-read-qa-with-bryan-caplan/&quot;&gt;about signaling and selection&lt;/a&gt;, not the development of real human capital; that said, educational interventions (like talent identification programs) are particularly useful for children on the far right end of the ability distribution, as these children go on to &lt;a href=&quot;https://adamlgreen.com/smpy/&quot;&gt;achieve disproportionate creative and professional success&lt;/a&gt; compared to their peers; for the majority of students, after teaching basic skills, we quickly reach diminishing marginal returns to education; variation in educational attainment is mostly, though certainly not completely, &lt;a href=&quot;https://psycnet.apa.org/record/2008-18777-001?mod=article_inline&quot;&gt;caused by genetic variation, not variation in access to educational resources&lt;/a&gt;; given the behavioral genetic research and the repeated failure of educational interventions to demonstrate long-term, reliable improvements in educational outcomes, it’s most parsimonious to think we’ll never discover a scalable intervention that fully closes achievement gaps between the best and worst students; finally, &lt;a href=&quot;https://www.theatlantic.com/magazine/archive/2019/07/education-isnt-enough/590611/&quot;&gt;educationism&lt;/a&gt; is wrong—the relationship between education and social inequality is largely &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4946990/&quot;&gt;moderated by genetic variation&lt;/a&gt; in traits that &lt;a href=&quot;https://www.nber.org/papers/w25114&quot;&gt;predispose one towards economic mobility&lt;/a&gt;, &lt;em&gt;not&lt;/em&gt; family background privilege.&lt;/p&gt;
 
@@ -690,11 +692,11 @@
 
 &lt;p&gt;Fully fleshing out all of these premises is beyond the scope of this essay. Nonetheless, given these premises, contra Plomin and Harden, I believe we should embrace radical meritocracy even at the expense of short-term inequality and injustice.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;What is Radical Meritocracy?&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;what-is-radical-meritocracy&quot;&gt;What is Radical Meritocracy?&lt;/h4&gt;
 
 &lt;p&gt;Radical meritocracy takes on board the Rawlsian idea that we should make choices about social systems (such as what constitutes educational equality of opportunity) as if we were behind a &lt;a href=&quot;https://en.wikipedia.org/wiki/Veil_of_ignorance&quot;&gt;veil of ignorance&lt;/a&gt;, not knowing where we’d end up. But behind the veil, radical meritocracy permits greater variance in life outcomes if it means that total utility is higher, which flies in the face of the &lt;a href=&quot;https://plato.stanford.edu/entries/rawls/#TwoPriJusFai&quot;&gt;difference principle of Rawls’ second principle of justice&lt;/a&gt;. Radical meritocracy also takes the long-term view, considering the utility of those currently alive and of our yet-to-be-born descendants (that is, it is not a &lt;a href=&quot;https://en.wikipedia.org/wiki/Person-affecting_view&quot;&gt;person-affecting view&lt;/a&gt;), meaning that behind the veil of ignorance one doesn’t know if they’ll be born in the 21st century or will be one of our (possibly existent) descendants living in the 31st century, colonizing the galaxy. This requires rejecting the luck egalitarians’ preoccupation with short-term inequality in favor of focusing on long-term gains in quality of life for all.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Radical Meritocracy in Practice&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;radical-meritocracy-in-practice&quot;&gt;Radical Meritocracy in Practice&lt;/h4&gt;
 
 &lt;p&gt;Under our current K-12 system, a child’s access to educational resources is largely a matter of chance, and not correlated with their innate ability. Poor, smart kids tend to end up in the low-quality public schools near their house. Rich kids more often get sent to private schools, even if they’re a bit dull. Yes, highly &lt;a href=&quot;https://quillette.com/2019/04/03/what-new-yorks-public-schools-could-learn-from-stuyvesant/&quot;&gt;competitive specialized schools&lt;/a&gt; like &lt;a href=&quot;https://en.wikipedia.org/wiki/Bronx_High_School_of_Science&quot;&gt;Bronx High School of Science&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Stuyvesant_High_School&quot;&gt;Stuyvesant High School&lt;/a&gt; (both of which are more selective than Harvard, accepting 3% of applicants each) allow the poor but bright kids to get ahead. But these schools are currently few and far between. Under a system of radical meritocracy, there would be many more such competitive specialized schools. However, this is just the tip of the iceberg.&lt;/p&gt;
 
@@ -740,7 +742,7 @@
 
 &lt;p&gt;In Germany, for example, nearly &lt;a href=&quot;https://www.cleanenergywire.org/factsheets/how-germanys-vocational-education-and-training-system-works&quot;&gt;⅓ of students&lt;/a&gt; pursue vocational training. Beyond vocational training, though, I think a radical reduction in public education spending and a renewed focus on reading, writing, and arithmetic (plus increased focus on other important topics, such as how to be in a relationship, basic Western history, etc.) would be the best course of action.&lt;/p&gt;
 
-&lt;h3 id=&quot;dimensionality-reduction-of-intuitions-around-radical-meritocracy&quot;&gt;Dimensionality Reduction of Intuitions Around Radical Meritocracy&lt;/h3&gt;
+&lt;h2 id=&quot;dimensionality-reduction-of-intuitions-around-radical-meritocracy&quot;&gt;Dimensionality Reduction of Intuitions Around Radical Meritocracy&lt;/h2&gt;
 
 &lt;p&gt;My radical meritocracy scheme is lacking in specifics and leaves many questions unanswered. There are many topics to touch on: school choice (vouchers vs. public), how K-12 education relates to higher education (and the pernicious signal inflation that is occurring), how to change pedagogy, what to do about all the bright “learning-disabled” children that fall through the cracks of our educational system, what to do with the students not on the right tail of the ability distribution, etc.&lt;/p&gt;
 
@@ -768,7 +770,7 @@
 
 &lt;p&gt;But why not maintain the educational status quo? Philosopher Evan Williams &lt;a href=&quot;https://link.springer.com/article/10.1007/s10677-015-9567-7&quot;&gt;has suggested&lt;/a&gt; that we may currently be engaged in various moral catastrophes that we’re completely unaware of; education may be one such catastrophe. A potential solution, per Williams, is “refocusing our educational system on identifying the most talented children and nurturing them to their full potential, not on trying to shepherd every last mediocre student into a four-year college” (9). If we truly care about the long-term future of humanity and believe that technological innovation is the means of achieving such a future, then we ought to take this idea seriously. Forestalling scientific progress (and the development of better human institutions) &lt;a href=&quot;https://nickbostrom.com/astronomical/waste.html&quot;&gt;could result in the counterfactual deaths&lt;/a&gt; of trillions of lives, squandering huge amounts of utility.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-educational-inequality-treadmill&quot;&gt;The Educational Inequality Treadmill&lt;/h3&gt;
+&lt;h2 id=&quot;the-educational-inequality-treadmill&quot;&gt;The Educational Inequality Treadmill&lt;/h2&gt;
 
 &lt;p&gt;Discussing &lt;a href=&quot;https://quillette.com/2018/05/14/the-racism-treadmill/&quot;&gt;the progressive conversation about racism&lt;/a&gt; in the United States, Coleman Hughes writes: &lt;/p&gt;
 
@@ -792,7 +794,7 @@
 
 &lt;p&gt;I’ll leave open the question of whether the genetically lucky have a responsibility to give back to those less fortunate—either via redistributive taxation or some other means—because as I’ve stated, we should quibble less about short term inequalities and focus more on the long-term future of our species. This isn’t meant to diminish those among us being left behind in this rapidly changing world. It’s merely to say that improving the quality of life for all human beings will, in the long run, do more to improve their plight than will palliative noble lies or finger-pointing.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Thanks to Jonathan Anomaly for feedback on this essay.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">“The natural distribution is neither just nor unjust; nor is it unjust that persons are born into society at some particular position. These are simply natural facts. What is just and unjust is the way that institutions deal with these facts.” John Rawls, A Theory of Justice (1971)</summary></entry><entry><title type="html">How Much Does Intelligence Matter for Creative Achievement and Professional Success?</title><link href="https://adamlgreen.com/smpy/" rel="alternate" type="text/html" title="How Much Does Intelligence Matter for Creative Achievement and Professional Success?" /><published>2018-11-26T12:40:15-05:00</published><updated>2018-11-26T12:40:15-05:00</updated><id>https://adamlgreen.com/smpy</id><content type="html" xml:base="https://adamlgreen.com/smpy/">&lt;p&gt;Longitudinal studies of the highly intelligent demonstrate the importance of IQ for creative and professional achievement. The Study of Mathematically Precocious Youth (SMPY), started in the early 1970’s by Julian Stanley and now run by David Lubinski and Camila Benbow at Vanderbilt University, has tracked multiple cohorts of high-IQ individuals, the oldest of which they’ve tracked for nearly 50 years.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Thanks to Jonathan Anomaly for feedback on this essay.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">“The natural distribution is neither just nor unjust; nor is it unjust that persons are born into society at some particular position. These are simply natural facts. What is just and unjust is the way that institutions deal with these facts.” John Rawls, A Theory of Justice (1971)</summary></entry><entry><title type="html">How Much Does Intelligence Matter for Creative Achievement and Professional Success?</title><link href="http://localhost:4000/smpy/" rel="alternate" type="text/html" title="How Much Does Intelligence Matter for Creative Achievement and Professional Success?" /><published>2018-11-26T12:40:15-05:00</published><updated>2018-11-26T12:40:15-05:00</updated><id>http://localhost:4000/smpy</id><content type="html" xml:base="http://localhost:4000/smpy/">&lt;p&gt;Longitudinal studies of the highly intelligent demonstrate the importance of IQ for creative and professional achievement. The Study of Mathematically Precocious Youth (SMPY), started in the early 1970’s by Julian Stanley and now run by David Lubinski and Camila Benbow at Vanderbilt University, has tracked multiple cohorts of high-IQ individuals, the oldest of which they’ve tracked for nearly 50 years.&lt;/p&gt;
 
 &lt;p&gt;SMPY identifies gifted youths by administering the SAT, a highly g-loaded test typically taken by high school seniors, to thirteen-year-olds. In the earliest SMPY cohorts, the threshold for being accepted was the top percentile of cognitive ability in one’s age group. In some of the later cohorts, the threshold was raised to top 0.5% and even top 0.01% of cognitive ability (&lt;a href=&quot;https://www.gwern.net/docs/iq/smpy/2006-lubinski.pdf&quot;&gt;Lubinski and Benbow, 2006&lt;/a&gt;)&lt;/p&gt;
 
@@ -816,7 +818,7 @@
 
 &lt;p&gt;Lest you think the Study of Mathematically Precocious Youth is a fluke, it has been longitudinally tracking individuals for upwards of fifty years, has sample sizes in the thousands, and has been replicated in its sister program, the Duke Talent Identification Program.&lt;/p&gt;
 
-&lt;p&gt;The main takeaway is intelligence matters. It is one of a few important determinants of creative achievement and success. Though it certainly isn’t sufficient for creative and professional success, in most cases it is necessary and, among the far-right tail, produces super-linear returns.&lt;/p&gt;</content><author><name></name></author><summary type="html">Longitudinal studies of the highly intelligent demonstrate the importance of IQ for creative and professional achievement. The Study of Mathematically Precocious Youth (SMPY), started in the early 1970’s by Julian Stanley and now run by David Lubinski and Camila Benbow at Vanderbilt University, has tracked multiple cohorts of high-IQ individuals, the oldest of which they’ve tracked for nearly 50 years.</summary></entry><entry><title type="html">The Science of Meditation: Behavioral Outcomes, Neural Substrates, and Inflammation</title><link href="https://adamlgreen.com/mindfulness/" rel="alternate" type="text/html" title="The Science of Meditation: Behavioral Outcomes, Neural Substrates, and Inflammation" /><published>2018-02-17T12:28:09-05:00</published><updated>2018-02-17T12:28:09-05:00</updated><id>https://adamlgreen.com/science-of-mindfulness</id><content type="html" xml:base="https://adamlgreen.com/mindfulness/">&lt;p&gt;Here’s my slideshow for a presentation I gave on the science of mindfulness meditation in 2018. Below I’ve attached the audio from the presentation, but beware, the quality is poor and in the second half the audio gets quieter (so you’ll have to turn up the volume).&lt;/p&gt;
+&lt;p&gt;The main takeaway is intelligence matters. It is one of a few important determinants of creative achievement and success. Though it certainly isn’t sufficient for creative and professional success, in most cases it is necessary and, among the far-right tail, produces super-linear returns.&lt;/p&gt;</content><author><name></name></author><summary type="html">Longitudinal studies of the highly intelligent demonstrate the importance of IQ for creative and professional achievement. The Study of Mathematically Precocious Youth (SMPY), started in the early 1970’s by Julian Stanley and now run by David Lubinski and Camila Benbow at Vanderbilt University, has tracked multiple cohorts of high-IQ individuals, the oldest of which they’ve tracked for nearly 50 years.</summary></entry><entry><title type="html">The Science of Meditation: Behavioral Outcomes, Neural Substrates, and Inflammation</title><link href="http://localhost:4000/mindfulness/" rel="alternate" type="text/html" title="The Science of Meditation: Behavioral Outcomes, Neural Substrates, and Inflammation" /><published>2018-02-17T12:28:09-05:00</published><updated>2018-02-17T12:28:09-05:00</updated><id>http://localhost:4000/science-of-mindfulness</id><content type="html" xml:base="http://localhost:4000/mindfulness/">&lt;p&gt;Here’s my slideshow for a presentation I gave on the science of mindfulness meditation in 2018. Below I’ve attached the audio from the presentation, but beware, the quality is poor and in the second half the audio gets quieter (so you’ll have to turn up the volume).&lt;/p&gt;
 
 &lt;p&gt;Nonetheless, if you play the audio while you go through the slideshow, it will help explain a lot.&lt;/p&gt;
 
@@ -825,7 +827,7 @@
 
 &lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQXcnqRQiqmhzXRbjmcPysOC1pIN5m9De9LAb-IknrF5qzq2qDqr5zGu9ql5fbXYw/embed?start=false&amp;amp;loop=false&amp;amp;delayms=60000&quot; frameborder=&quot;0&quot; width=&quot;750&quot; height=&quot;450&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;em&gt;Update 08/2019: It seems that mindfulness research has fallen prey to the replication crisis. There appears to be substantial publication bias. See &lt;a href=&quot;https://www.nature.com/news/power-of-positive-thinking-skews-mindfulness-studies-1.19776&quot;&gt;here&lt;/a&gt; or &lt;a href=&quot;https://qz.com/668887/a-new-study-suggests-mindfulness-isnt-quite-as-miraculous-as-weve-been-led-to-believe/&quot;&gt;here&lt;/a&gt;, for example. So, take everything said above with a slightly larger grain of salt. &lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Here’s my slideshow for a presentation I gave on the science of mindfulness meditation in 2018. Below I’ve attached the audio from the presentation, but beware, the quality is poor and in the second half the audio gets quieter (so you’ll have to turn up the volume).</summary></entry><entry><title type="html">Searching for the Self: Predictive Processing and the Evolution of Subjectivity</title><link href="https://adamlgreen.com/searching-for-self/" rel="alternate" type="text/html" title="Searching for the Self: Predictive Processing and the Evolution of Subjectivity" /><published>2018-02-03T12:01:52-05:00</published><updated>2018-02-03T12:01:52-05:00</updated><id>https://adamlgreen.com/searching-for-self</id><content type="html" xml:base="https://adamlgreen.com/searching-for-self/">&lt;p&gt;&lt;em&gt;The precursor to this essay, written around a year earlier, can be found &lt;a href=&quot;https://adamlgreen.com/you-arent-conscious-right-now/&quot;&gt;here.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update 08/2019: It seems that mindfulness research has fallen prey to the replication crisis. There appears to be substantial publication bias. See &lt;a href=&quot;https://www.nature.com/news/power-of-positive-thinking-skews-mindfulness-studies-1.19776&quot;&gt;here&lt;/a&gt; or &lt;a href=&quot;https://qz.com/668887/a-new-study-suggests-mindfulness-isnt-quite-as-miraculous-as-weve-been-led-to-believe/&quot;&gt;here&lt;/a&gt;, for example. So, take everything said above with a slightly larger grain of salt. &lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Here’s my slideshow for a presentation I gave on the science of mindfulness meditation in 2018. Below I’ve attached the audio from the presentation, but beware, the quality is poor and in the second half the audio gets quieter (so you’ll have to turn up the volume).</summary></entry><entry><title type="html">Searching for the Self: Predictive Processing and the Evolution of Subjectivity</title><link href="http://localhost:4000/searching-for-self/" rel="alternate" type="text/html" title="Searching for the Self: Predictive Processing and the Evolution of Subjectivity" /><published>2018-02-03T12:01:52-05:00</published><updated>2018-02-03T12:01:52-05:00</updated><id>http://localhost:4000/searching-for-self</id><content type="html" xml:base="http://localhost:4000/searching-for-self/">&lt;p&gt;&lt;em&gt;The precursor to this essay, written around a year earlier, can be found &lt;a href=&quot;https://adamlgreen.com/you-arent-conscious-right-now/&quot;&gt;here.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;embed-youtube&quot; style=&quot;text-align:center; display: block;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -1002,7 +1004,7 @@
 
 &lt;p&gt;&lt;a href=&quot;#_ftnref4&quot; name=&quot;_ftn4&quot;&gt;&lt;sup&gt;[4]&lt;/sup&gt;&lt;/a&gt; This measure of entropy is inversely related to what Tononi (2012) calls phi, integrated information.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#_ftnref5&quot; name=&quot;_ftn5&quot;&gt;&lt;sup&gt;[5]&lt;/sup&gt;&lt;/a&gt; But, as stated in section 1.1, I have no proof of this. It’s merely a claim I take to be axiomatic.&lt;/p&gt;</content><author><name></name></author><summary type="html">The precursor to this essay, written around a year earlier, can be found here.</summary></entry><entry><title type="html">Using Neuroimaging to Predict Recidivism and Identify Psychopaths</title><link href="https://adamlgreen.com/psychopathy/" rel="alternate" type="text/html" title="Using Neuroimaging to Predict Recidivism and Identify Psychopaths" /><published>2017-12-27T03:48:15-05:00</published><updated>2017-12-27T03:48:15-05:00</updated><id>https://adamlgreen.com/psychopathy</id><content type="html" xml:base="https://adamlgreen.com/psychopathy/">&lt;p&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;The intersection of cognitive neuroscience and the law—called &lt;/span&gt;&lt;em style=&quot;font-size: 1rem;&quot;&gt;neurolaw&lt;/em&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;—is a rapidly growing field of research. Many are excited by the potential of neuroscience to improve everything from criminal sentencing to rehabilitation of criminals (Jones et al., 2013). In this paper I will focus on the application of neuroimaging to psychopathy, and specifically on how it can be used to predict future recidivism—aptly named &lt;/span&gt;&lt;em style=&quot;font-size: 1rem;&quot;&gt;neuroprediction&lt;/em&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;—and identify psychopaths. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#_ftnref5&quot; name=&quot;_ftn5&quot;&gt;&lt;sup&gt;[5]&lt;/sup&gt;&lt;/a&gt; But, as stated in section 1.1, I have no proof of this. It’s merely a claim I take to be axiomatic.&lt;/p&gt;</content><author><name></name></author><summary type="html">The precursor to this essay, written around a year earlier, can be found here.</summary></entry><entry><title type="html">Using Neuroimaging to Predict Recidivism and Identify Psychopaths</title><link href="http://localhost:4000/psychopathy/" rel="alternate" type="text/html" title="Using Neuroimaging to Predict Recidivism and Identify Psychopaths" /><published>2017-12-27T03:48:15-05:00</published><updated>2017-12-27T03:48:15-05:00</updated><id>http://localhost:4000/psychopathy</id><content type="html" xml:base="http://localhost:4000/psychopathy/">&lt;p&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;The intersection of cognitive neuroscience and the law—called &lt;/span&gt;&lt;em style=&quot;font-size: 1rem;&quot;&gt;neurolaw&lt;/em&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;—is a rapidly growing field of research. Many are excited by the potential of neuroscience to improve everything from criminal sentencing to rehabilitation of criminals (Jones et al., 2013). In this paper I will focus on the application of neuroimaging to psychopathy, and specifically on how it can be used to predict future recidivism—aptly named &lt;/span&gt;&lt;em style=&quot;font-size: 1rem;&quot;&gt;neuroprediction&lt;/em&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;—and identify psychopaths. &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-size: 1rem;&quot;&gt;Psychopaths make up less than 1% of the U.S. population, yet commit 30% of all violent crime, costing us $250-400 billion dollars per year (Kiehl, 2010). Thus, if neuroimaging can improve our ability to diagnose psychopathy and predict recidivism, it will be quite the boon to society. However, as with other promising technologies, there are many methodological and ethical issues that arise from our growing neuropredictive powers. My thesis is that if we exercise sufficient caution and thoroughly vet these neuroprediction tools, then we ought to use them in our criminal justice system, for they are only going to give us better, more accurate information and improve upon our current forms of risk assessment. The real ethical issue is how we use this predictive information, but this issue isn’t unique to neuroimaging: it’s an issue all forms of predictive evidence face.&lt;/span&gt;&lt;/p&gt;
 
@@ -1096,7 +1098,7 @@
 
 &lt;p&gt;Weisberg, Deena S., Frank C. Keil, Joshua Goodstein, Elizabeth Rawson, and Jeremy R. Gray. 2008. “The Seductive Allure of Neuroscience Explanations.” &lt;em&gt;Journal of Cognitive Neuroscience&lt;/em&gt; 20(3): 470-477.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;(Image credit: &lt;a href=&quot;http://www.pbs.org/wgbh/nova/next/body/theres-hope-for-fmri-despite-major-software-flaws/&quot;&gt;PBS&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">The intersection of cognitive neuroscience and the law—called neurolaw—is a rapidly growing field of research. Many are excited by the potential of neuroscience to improve everything from criminal sentencing to rehabilitation of criminals (Jones et al., 2013). In this paper I will focus on the application of neuroimaging to psychopathy, and specifically on how it can be used to predict future recidivism—aptly named neuroprediction—and identify psychopaths.</summary></entry><entry><title type="html">Why Depression Might Be Adaptive</title><link href="https://adamlgreen.com/evolution-depression/" rel="alternate" type="text/html" title="Why Depression Might Be Adaptive" /><published>2017-05-28T15:41:09-04:00</published><updated>2017-05-28T15:41:09-04:00</updated><id>https://adamlgreen.com/evolution-depression</id><content type="html" xml:base="https://adamlgreen.com/evolution-depression/">&lt;p&gt;Major depressive disorder is the most common psychiatric disorder in the United States, affecting 18% of adults (ADAA). Those with depression are lethargic, withdraw from social relationships, and don’t get pleasure from typically enjoyable activities such as eating and sex—a symptom called anhedonia (Watson &amp;amp; Andrews). All this might lead you to believe that depression is maladaptive, some vestigial structure that somehow slipped through the cracks of time. If depression were purely maladaptive, then yes, it would be quite perplexing that it’s so common. However, many have theorized about adaptive explanations for depression, reasons why it may have increased individuals’ fitness and thus persisted. I’ll present and review a couple of these hypotheses—the analytic rumination hypothesis and the inflammation hypothesis—and touch upon some big themes in evolutionary medicine such as tradeoffs, genetics, and evolutionary mismatch.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Image credit: &lt;a href=&quot;http://www.pbs.org/wgbh/nova/next/body/theres-hope-for-fmri-despite-major-software-flaws/&quot;&gt;PBS&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">The intersection of cognitive neuroscience and the law—called neurolaw—is a rapidly growing field of research. Many are excited by the potential of neuroscience to improve everything from criminal sentencing to rehabilitation of criminals (Jones et al., 2013). In this paper I will focus on the application of neuroimaging to psychopathy, and specifically on how it can be used to predict future recidivism—aptly named neuroprediction—and identify psychopaths.</summary></entry><entry><title type="html">Why Depression Might Be Adaptive</title><link href="http://localhost:4000/evolution-depression/" rel="alternate" type="text/html" title="Why Depression Might Be Adaptive" /><published>2017-05-28T15:41:09-04:00</published><updated>2017-05-28T15:41:09-04:00</updated><id>http://localhost:4000/evolution-depression</id><content type="html" xml:base="http://localhost:4000/evolution-depression/">&lt;p&gt;Major depressive disorder is the most common psychiatric disorder in the United States, affecting 18% of adults (ADAA). Those with depression are lethargic, withdraw from social relationships, and don’t get pleasure from typically enjoyable activities such as eating and sex—a symptom called anhedonia (Watson &amp;amp; Andrews). All this might lead you to believe that depression is maladaptive, some vestigial structure that somehow slipped through the cracks of time. If depression were purely maladaptive, then yes, it would be quite perplexing that it’s so common. However, many have theorized about adaptive explanations for depression, reasons why it may have increased individuals’ fitness and thus persisted. I’ll present and review a couple of these hypotheses—the analytic rumination hypothesis and the inflammation hypothesis—and touch upon some big themes in evolutionary medicine such as tradeoffs, genetics, and evolutionary mismatch.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -1126,7 +1128,7 @@
 
 &lt;p&gt;Raison, C.L., and A.H. Miller. 2013. “The evolutionary significance of depression in Pathogen Host Defense (PATHOS-D).” &lt;em&gt;Molecular Psychiatry&lt;/em&gt; 18: 15-37.&lt;/p&gt;
 
-&lt;p&gt;Watson, Paul J., and Paul W. Andrews. 2002. “Toward a revised evolutionary and adaptationist analysis of depression: the social navigation hypothesis.” &lt;em&gt;Journal of Affective Disorders&lt;/em&gt; 72: 1-14.&lt;/p&gt;</content><author><name></name></author><summary type="html">Major depressive disorder is the most common psychiatric disorder in the United States, affecting 18% of adults (ADAA). Those with depression are lethargic, withdraw from social relationships, and don’t get pleasure from typically enjoyable activities such as eating and sex—a symptom called anhedonia (Watson &amp;amp; Andrews). All this might lead you to believe that depression is maladaptive, some vestigial structure that somehow slipped through the cracks of time. If depression were purely maladaptive, then yes, it would be quite perplexing that it’s so common. However, many have theorized about adaptive explanations for depression, reasons why it may have increased individuals’ fitness and thus persisted. I’ll present and review a couple of these hypotheses—the analytic rumination hypothesis and the inflammation hypothesis—and touch upon some big themes in evolutionary medicine such as tradeoffs, genetics, and evolutionary mismatch.</summary></entry><entry><title type="html">You (Probably) Aren’t Conscious Right Now</title><link href="https://adamlgreen.com/conscious-pt-1/" rel="alternate" type="text/html" title="You (Probably) Aren’t Conscious Right Now" /><published>2017-04-14T15:54:07-04:00</published><updated>2017-04-14T15:54:07-04:00</updated><id>https://adamlgreen.com/you-arent-conscious-right-now</id><content type="html" xml:base="https://adamlgreen.com/conscious-pt-1/">&lt;p&gt;&lt;em&gt;My first foray into philosophy of mind, c. 2017; a followup essay, which extends these concepts, can be found &lt;a href=&quot;https://adamlgreen.com/searching-for-self/&quot;&gt;here.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Watson, Paul J., and Paul W. Andrews. 2002. “Toward a revised evolutionary and adaptationist analysis of depression: the social navigation hypothesis.” &lt;em&gt;Journal of Affective Disorders&lt;/em&gt; 72: 1-14.&lt;/p&gt;</content><author><name></name></author><summary type="html">Major depressive disorder is the most common psychiatric disorder in the United States, affecting 18% of adults (ADAA). Those with depression are lethargic, withdraw from social relationships, and don’t get pleasure from typically enjoyable activities such as eating and sex—a symptom called anhedonia (Watson &amp;amp; Andrews). All this might lead you to believe that depression is maladaptive, some vestigial structure that somehow slipped through the cracks of time. If depression were purely maladaptive, then yes, it would be quite perplexing that it’s so common. However, many have theorized about adaptive explanations for depression, reasons why it may have increased individuals’ fitness and thus persisted. I’ll present and review a couple of these hypotheses—the analytic rumination hypothesis and the inflammation hypothesis—and touch upon some big themes in evolutionary medicine such as tradeoffs, genetics, and evolutionary mismatch.</summary></entry><entry><title type="html">You (Probably) Aren’t Conscious Right Now</title><link href="http://localhost:4000/conscious-pt-1/" rel="alternate" type="text/html" title="You (Probably) Aren’t Conscious Right Now" /><published>2017-04-14T15:54:07-04:00</published><updated>2017-04-14T15:54:07-04:00</updated><id>http://localhost:4000/you-arent-conscious-right-now</id><content type="html" xml:base="http://localhost:4000/conscious-pt-1/">&lt;p&gt;&lt;em&gt;My first foray into philosophy of mind, c. 2017; a followup essay, which extends these concepts, can be found &lt;a href=&quot;https://adamlgreen.com/searching-for-self/&quot;&gt;here.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;As I write this paper it seems as if I am undergoing a set of sensory experiences. I pick up my mug and &lt;em&gt;feel&lt;/em&gt; its warmth in my hand; I &lt;em&gt;taste&lt;/em&gt; the coffee; I &lt;em&gt;hear&lt;/em&gt; the pitter-patter of the rain outside my window. These experiences all seem to have distinctly mental properties such as phenomenality—there is something it is &lt;em&gt;like&lt;/em&gt; for me to be undergoing these experiences—subjectivity—&lt;em&gt;I&lt;/em&gt; am the one undergoing these experiences—and privacy—I have &lt;em&gt;special first-person knowledge&lt;/em&gt; of these experiences that others don’t. While these properties may seem metaphysically special, I will argue that they, and all other mental properties, are not special. The specialness of these properties is an illusion, one which is so convincing and pervasive that it is nearly impossible to see through, but ultimately these properties are nothing more than complex physical properties.&lt;/p&gt;
 
@@ -1223,7 +1225,7 @@
 
 &lt;p&gt;Webb, Taylor W., and Michael S. A. Graziano. 2015. “The Attention Schema Theory: A Mechanistic Account of Subjective Awareness.” &lt;em&gt;Frontiers in Psychology&lt;/em&gt;, 5(500): 1–11.&lt;/p&gt;
 
-&lt;p&gt;Van Gulick, Robert. “Consciousness.” &lt;em&gt;The Stanford Encyclopedia of Philosophy&lt;/em&gt; (Winter 2016 Edition), ed. Edward N. Zalta. &lt;a href=&quot;https://plato.stanford.edu/archives/win2016/entries/consciousness/&quot;&gt;https://plato.stanford.edu/archives/win2016/entries/consciousness/&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">My first foray into philosophy of mind, c. 2017; a followup essay, which extends these concepts, can be found here.</summary></entry><entry><title type="html">Does Believing in Free Will May Make You Punish More Harshly?</title><link href="https://adamlgreen.com/punishment-and-free-will/" rel="alternate" type="text/html" title="Does Believing in Free Will May Make You Punish More Harshly?" /><published>2016-12-27T00:00:00-05:00</published><updated>2016-12-27T00:00:00-05:00</updated><id>https://adamlgreen.com/tpp-and-free-will</id><content type="html" xml:base="https://adamlgreen.com/punishment-and-free-will/">&lt;p&gt;Philosophers have long debated about free will—are we in control of our actions or are they ultimately predetermined? Regardless of what the answer to this question is, recent work in moral psychology shows that our beliefs about agency affect our decision-making. Krueger et al. (2014) explored how belief in free will—which they termed “BFW”—affects our decisions about third-party punishment—which they termed “TPP” (1143). Third-party punishment is a way of punishing those who violate social norms; in TPP, rather than have the person wronged choose and execute the punishment of the wrongdoer, this responsibility is given to an impartial decision-maker such as a judge or court system (1143). Krueger et al. collected behavioral and fMRI data on how BFW affects choice of TPP for a variety of criminal actions. They also examined how the affect of a crime—that is, its emotional salience—impacted choice of punishment. Their paper demonstrates how reverse inference can be done well and shows that our discussions about free will have real-world consequences.&lt;/p&gt;
+&lt;p&gt;Van Gulick, Robert. “Consciousness.” &lt;em&gt;The Stanford Encyclopedia of Philosophy&lt;/em&gt; (Winter 2016 Edition), ed. Edward N. Zalta. &lt;a href=&quot;https://plato.stanford.edu/archives/win2016/entries/consciousness/&quot;&gt;https://plato.stanford.edu/archives/win2016/entries/consciousness/&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">My first foray into philosophy of mind, c. 2017; a followup essay, which extends these concepts, can be found here.</summary></entry><entry><title type="html">Does Believing in Free Will May Make You Punish More Harshly?</title><link href="http://localhost:4000/punishment-and-free-will/" rel="alternate" type="text/html" title="Does Believing in Free Will May Make You Punish More Harshly?" /><published>2016-12-27T00:00:00-05:00</published><updated>2016-12-27T00:00:00-05:00</updated><id>http://localhost:4000/tpp-and-free-will</id><content type="html" xml:base="http://localhost:4000/punishment-and-free-will/">&lt;p&gt;Philosophers have long debated about free will—are we in control of our actions or are they ultimately predetermined? Regardless of what the answer to this question is, recent work in moral psychology shows that our beliefs about agency affect our decision-making. Krueger et al. (2014) explored how belief in free will—which they termed “BFW”—affects our decisions about third-party punishment—which they termed “TPP” (1143). Third-party punishment is a way of punishing those who violate social norms; in TPP, rather than have the person wronged choose and execute the punishment of the wrongdoer, this responsibility is given to an impartial decision-maker such as a judge or court system (1143). Krueger et al. collected behavioral and fMRI data on how BFW affects choice of TPP for a variety of criminal actions. They also examined how the affect of a crime—that is, its emotional salience—impacted choice of punishment. Their paper demonstrates how reverse inference can be done well and shows that our discussions about free will have real-world consequences.&lt;/p&gt;
 
 &lt;p&gt;Using the Free Will and Determinism questionnaire (Paulhus &amp;amp; Carey, 2011), Krueger et al. divided up their subjects into libertarians—those who have BFW—and determinists—those who don’t have BFW. In the experiment, subjects were placed in an fMRI machine and presented with a series of written criminal scenarios, ranging from theft to rape and murder. They were then asked to choose, on a scale from 0 to 100, the appropriate level of punishment the criminal deserved for committing each crime. Subjects were also asked to rate their “subjective affective experience” of each scenario. This metric captured the emotional valence and arousal level elicited by the scenario. Using this information, they divided the criminal scenarios into a “low affective” and a “high affective” group (1144).&lt;/p&gt;
 
@@ -1249,7 +1251,7 @@
 
 &lt;p&gt;Poldrack, Russell A. 2006. “Can Cognitive Processes Be Inferred from Neuroimaging Data?” &lt;em&gt;Trends in Cognitive Science&lt;/em&gt; 10(2): 59–63.&lt;/p&gt;
 
-&lt;p&gt; &lt;/p&gt;</content><author><name></name></author><summary type="html">Philosophers have long debated about free will—are we in control of our actions or are they ultimately predetermined? Regardless of what the answer to this question is, recent work in moral psychology shows that our beliefs about agency affect our decision-making. Krueger et al. (2014) explored how belief in free will—which they termed “BFW”—affects our decisions about third-party punishment—which they termed “TPP” (1143). Third-party punishment is a way of punishing those who violate social norms; in TPP, rather than have the person wronged choose and execute the punishment of the wrongdoer, this responsibility is given to an impartial decision-maker such as a judge or court system (1143). Krueger et al. collected behavioral and fMRI data on how BFW affects choice of TPP for a variety of criminal actions. They also examined how the affect of a crime—that is, its emotional salience—impacted choice of punishment. Their paper demonstrates how reverse inference can be done well and shows that our discussions about free will have real-world consequences.</summary></entry><entry><title type="html">Kin Selection for Alarm Calling Behavior in Rodent Species</title><link href="https://adamlgreen.com/squirrels/" rel="alternate" type="text/html" title="Kin Selection for Alarm Calling Behavior in Rodent Species" /><published>2016-03-01T00:00:00-05:00</published><updated>2016-03-01T00:00:00-05:00</updated><id>https://adamlgreen.com/squirrels-are-cool</id><content type="html" xml:base="https://adamlgreen.com/squirrels/">&lt;blockquote class=&quot;wp-block-quote&quot;&gt;
+&lt;p&gt; &lt;/p&gt;</content><author><name></name></author><summary type="html">Philosophers have long debated about free will—are we in control of our actions or are they ultimately predetermined? Regardless of what the answer to this question is, recent work in moral psychology shows that our beliefs about agency affect our decision-making. Krueger et al. (2014) explored how belief in free will—which they termed “BFW”—affects our decisions about third-party punishment—which they termed “TPP” (1143). Third-party punishment is a way of punishing those who violate social norms; in TPP, rather than have the person wronged choose and execute the punishment of the wrongdoer, this responsibility is given to an impartial decision-maker such as a judge or court system (1143). Krueger et al. collected behavioral and fMRI data on how BFW affects choice of TPP for a variety of criminal actions. They also examined how the affect of a crime—that is, its emotional salience—impacted choice of punishment. Their paper demonstrates how reverse inference can be done well and shows that our discussions about free will have real-world consequences.</summary></entry><entry><title type="html">Kin Selection for Alarm Calling Behavior in Rodent Species</title><link href="http://localhost:4000/squirrels/" rel="alternate" type="text/html" title="Kin Selection for Alarm Calling Behavior in Rodent Species" /><published>2016-03-01T00:00:00-05:00</published><updated>2016-03-01T00:00:00-05:00</updated><id>http://localhost:4000/squirrels-are-cool</id><content type="html" xml:base="http://localhost:4000/squirrels/">&lt;blockquote class=&quot;wp-block-quote&quot;&gt;
   &lt;p&gt;
     &quot;I would lay down my life for two brothers or eight cousins.&quot;
   &lt;/p&gt;

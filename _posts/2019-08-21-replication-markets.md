@@ -1,13 +1,19 @@
 ---
 title: 'Replication Markets: Can You Predict Which Social Science Papers Will Replicate?'
-subtitle: Discussing the mechanics of the Replication Markets platform and my priors on the replicability of different social science fields.
+subtitle: Discusses the mechanics of the Replication Markets platform; issues in prediction market and survey incentive design; and the (un)replicability of six social science fields.
 layout: default
 date: 2019-08-21
 keywords: replication, sociology, social science
 published: true
 permalink: /replication-markets/
+toc:
+  no_toc: ''
+  min_level: 1
+  max_level: 1
+  list_class: section-nav
+table_of_contents: "yes"
 ---
-### What are Replication Markets?
+## What are Replication Markets?
 
 Replication Markets are a type of [prediction market](http://mason.gmu.edu/~rhanson/ideafutures.html), mechanisms that enable individuals to bet on the outcome of events. Just as financial markets efficiently determine the perceived value of a security by aggregating the beliefs of buyers and sellers (e.g., I think this stock will rise in price, so I will buy more), [prediction markets](https://www.investopedia.com/terms/p/prediction-market.asp) determine the perceived likelihood of an event by aggregating the beliefs of many individuals. Both financial and prediction markets draw on the [wisdom](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd) (or sometimes lunacy) of crowds and the power of financial incentives. 
 
@@ -21,7 +27,7 @@ There is a public website, [Replication Markets](http://replicationmarkets.com) 
 
 In this essay, I&#8217;ll explain how RM works, explain the market mechanisms and game theory of it, and walk through my thought process and strategy.
 
-## How Replication Markets Works
+## How _Replication Markets_ Works
 
 ### What Counts as Replication?
 
@@ -35,9 +41,9 @@ To win money, we need to predict replication. To do that, we need to know what t
 
 Replication Markets is composed of 10, 4-week rounds, starting in September 2019 (plus a special Round 0 for meta-claims in August 2019, which I&#8217;ll address later). [Each round has two components](https://www.replicationmarkets.com/index.php/frequently-asked-questions/payouts/): markets and surveys, both of which are ways to aggregate many opinions and achieve the [wisdom of crowds.](https://www.google.com/search?q=wisdom+of+crowds&rlz=1C1CHBF_enUS851US851&oq=wsidom+of+c&aqs=chrome.1.69i57j0l5.3192j1j0&sourceid=chrome&ie=UTF-8)
 
-#### **Surveys** 
+**Surveys** 
 
-Surveys are private evaluations (i.e., opinion polls) of the probability that a given claim is true. These evaluations are made a week prior to the market&#8217;s opening. Surveys come in batches of 10 claims (all from the same journal, I believe), and there are around 15 per round. Surveys pay out at the end of the following round, with top 4 participants receiving $80, $40, $20, and $20. 
+Surveys are private evaluations (i.e., opinion polls) of the probability that a given claim is true. These evaluations are made a week prior to the market&#8217;s opening. Surveys come in batches of 10 claims (all from the same journal, I believe), and there are around 15 per round. Surveys pay out at the end of the following round, with top 4 participants receiving \\$80, \\$40, \\$20, and \\$20 dollars each.
 
 RM isn&#8217;t specifying how exactly the surveys will be scored. Because they resolve a month after closing, before the actual replication attempts, they must involve predicting what probabilities the prediction markets will give each claim. I emailed RM to find out about the scoring and was told this:
 
@@ -49,11 +55,11 @@ RM isn&#8217;t specifying how exactly the surveys will be scored. Because they r
   <cite>Personal Communication</cite>
 </blockquote>
 
-#### **Markets**
+**Markets**
 
 Markets are the prediction market aspect of RM. Each participant is given a set number of points, which she can use to buy Yes or No shares for a claim. Markets &#8220;pay out proportionally to winning shares&#8221; and will resolve by mid-2020, once the replications have been attempted.
 
-According to the [rules](https://www.replicationmarkets.com/index.php/frequently-asked-questions/rules/), only 100 of the 3000 (i.e., 3.33%) claims will be selected _and_ pay out (these claims will be directly replicated; the data-replicated claims do not pay out). Each of these has a total payout of $900, paid proportional to the number of winning shares in a resolved claim (e.g., I have 10 Yes shares for Claim X; the total number of Yes shares held by RM participants in 1,000; so, I am paid 10/1,000 out of $900, which equals $9). 
+According to the [rules](https://www.replicationmarkets.com/index.php/frequently-asked-questions/rules/), only 100 of the 3000 (i.e., 3.33%) claims will be selected _and_ pay out (these claims will be directly replicated; the data-replicated claims do not pay out). Each of these has a total payout of \\$900, paid proportional to the number of winning shares in a resolved claim (e.g., I have 10 Yes shares for Claim X; the total number of Yes shares held by RM participants in 1,000; so, I am paid 10/1,000 out of \\$900, which equals \\$9). 
 
 For the meta round, Round 0, &#8220;Meta-claims resolve as the proportion of successful direct replications, so a meta-claim resolving as 60% would pay 0.6 points per ‘Yes’ share and 0.4 points per ‘No’ share.&#8221; The total payout for this round is $360 for each of the 12 meta-claims. 
 
@@ -88,9 +94,15 @@ As one participant in RM explains:
 
 Here&#8217;s an example of arbitrage, converting 23 &#8216;No&#8217; shares to 36 &#8216;Yes&#8217; shares (with the help of 2 other points, which buy about 6 of the 36 shares):<figure class="wp-block-image">
 
-<img loading="lazy" width="620" height="246" src="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_1.png?resize=620%2C246&#038;ssl=1" alt="" class="wp-image-1403" srcset="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_1.png?w=891&ssl=1 891w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_1.png?resize=300%2C119&ssl=1 300w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_1.png?resize=768%2C304&ssl=1 768w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /> </figure> <figure class="wp-block-image"><img loading="lazy" width="620" height="242" src="https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_2.png?resize=620%2C242&#038;ssl=1" alt="" class="wp-image-1404" srcset="https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_2.png?w=893&ssl=1 893w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_2.png?resize=300%2C117&ssl=1 300w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/arbitrage_2.png?resize=768%2C299&ssl=1 768w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /></figure> 
+<div class="figure"> 
+    <img src="/assets/img/arbitrage_1.png"
+    loading="lazy" width="100%" display="block" margin="0 auto"> 
+    <img src="/assets/img/arbitrage_2.png"
+    loading="lazy" width="100%" display="block" margin="0 auto">
+</div>
 
-### Round 0
+
+**Round 0**
 
 For Round 0, you must predict the percentage of claims that will replicate per field and per time period. There are 12 such &#8220;meta-claims&#8221;. Pay outs are based on the number of &#8216;Yes&#8217; or &#8216;No&#8217; shares you have for each of these 12 meta-claims. 
 
@@ -100,15 +112,15 @@ To determine the proper strategy and expected payout, we must consider the follo
   * The number of points (participants start with 100)
   * The proportion of N that spend all their points (I&#8217;ll assume this is 100% to be conservative)
 
-A toy example: assume that every meta-claim had a replication rate of 50%. This means that &#8216;Yes&#8217; and &#8216;No&#8217; shares are paid the same amount. The total prize money is $4320 for these 12 claims. The total pool of points is 50,000, assuming N = 500. So, if everyone bought their shares at the exact same price, each point is worth about $0.086. Given that everyone started with 100 points, each person earns around $8.60. If we change our assumptions and let N = 100, each person earns around $43. 
+A toy example: assume that every meta-claim had a replication rate of 50%. This means that &#8216;Yes&#8217; and &#8216;No&#8217; shares are paid the same amount. The total prize money is \\$4320 for these 12 claims. The total pool of points is 50,000, assuming N = 500. So, if everyone bought their shares at the exact same price, each point is worth about \\$0.086. Given that everyone started with 100 points, each person earns around \\$8.60. If we change our assumptions and let N = 100, each person earns around \\$43. 
 
 A more realistic example: assume that each meta-claim has a 0.5 chance of being either 40% or 60%. Suppose that you end up being on the correct side of all 12 of these markets (i.e., if the replication rate is 60%, you bought all &#8216;Yes&#8217; shares). Also, suppose that the prediction market&#8217;s final estimates for all these claims are 50%. Then, if you start with 100 points and evenly distribute them across claims, your earnings will be around 10% more, as you receive 0.6 points for every &#8220;correct&#8221; share.
 
-**Strategy** 
+**_Strategy_** 
 
 There are possible arbitrage and subterfuge opportunities, but frankly, I don&#8217;t think they&#8217;re worth going into given how small the rewards are.
 
-### Rounds 1-10
+**Rounds 1-10**
 
 The more interesting game theory is in Rounds 1-10. Should we uniformly distribute our points, or should we focus on areas in which we have more expertise, and therefore are more likely to correctly predict?
 
@@ -116,7 +128,7 @@ Replication Markets [suggests](https://www.replicationmarkets.com/index.php/2019
 
 &#8220;The market is probably most accurate when forecasters specialize, because one kind of forecaster won’t have enough points.&#8221;
 
-Per round, each forecaster has 300 points to spend on 300 claims, 10 of which will be directly replicated and paid out. Assuming (obviously a simplification) that replication rate is constant across all six fields, that means around 1.67 claims per field will be directly replicated each round. The total prizes per round are $9000, meaning that the expected prize money for each claim is $30. 
+Per round, each forecaster has 300 points to spend on 300 claims, 10 of which will be directly replicated and paid out. Assuming (obviously a simplification) that replication rate is constant across all six fields, that means around 1.67 claims per field will be directly replicated each round. The total prizes per round are \\$9000, meaning that the expected prize money for each claim is \\$30. 
 
 **Strategy**
 
@@ -124,11 +136,11 @@ Conditional on a claim being selected for replication and you predicting the cor
 
 (Note, however, that this isn&#8217;t an evolutionarily stable strategy; if everyone were to realize markets with fewer participants increased their chances of winning, the equilibrium condition would be an even distribution of participants among all markets.)
 
-## How to Win the Surveys
+### How to Win the Surveys
 
 Surveys are by far the more financially rewarding opportunity in RM. They have a [tournament payout structure](https://www.truepoker.eu/poker-tournaments/payout-structure/), with only the top 4 forecasters winning. And they don&#8217;t involve the confusing LMSR the markets use. To win the surveys, you need to be good at predicting which claims will replicate, which I&#8217;ll focus on below. But first, let&#8217;s focus on the second-order function of which claims the rest of the survey-takers _believe_ will replicate, as this is key to the survey scoring function.
 
-#### Survey Scoring Rules
+#### Issues in Survey Incentive Design
 
 RM will use some secret crowd aggregation technique for scoring surveys. All they&#8217;re willing to reveal is that &#8220;in the survey you are scored against our best judgment of the right forecast, having processed all the forecasts of other participants using our best aggregation techniques.&#8221; 
 
@@ -136,7 +148,7 @@ So, I imagine that if you want to win the surveys, your private survey opinions 
 
 This depends on the survey scoring method. A good candidate is to be found in the recent arXiv paper by Yang Liu and Yiling Chen (two members of the [RM scoring team](https://www.replicationmarkets.com/index.php/our-team/)), &#8220;[Surrogate Scoring Rules and a Uniform Dominant Truth Serum](https://arxiv.org/pdf/1802.09158.pdf)&#8220;. Considering that RM will be experimenting with novel methods of survey aggregation, I think this fits the bill. The question is: will understanding the scoring system allow us to game it?
 
-##### Surrogate Scoring Rules
+**Surrogate Scoring Rules**
 
 The scoring problem Liu and Chen address is the following: 
 
@@ -198,13 +210,16 @@ Consequently, [academic malpractice](https://en.wikipedia.org/wiki/Malpractice)�
 
 Case in point, a [2018 replication project](https://www.nature.com/articles/s41562-018-0399-z) for 21 social science papers published in _Science_ and _Nature_ (two of the top general science journals) between 2010 and 2015 had a replication rate of 62%.
 
-## Does Replication Rate Vary Significantly By Field?
+### Does Replication Rate Vary Significantly By Field?
 
 A single general social science replication project is useful, but certainly not dispositive. A much better approach is to look at replication on a field-by-field basis, set these as our priors, and forecast replication of specific claims using these priors. 
 
 It&#8217;s clear that certain fields have better [epistemic hygiene](https://wiki.lesswrong.com/wiki/Epistemic_hygiene) than others. One index of poor epistemic hygiene is the percentage of publications in a field that feature results confirming the tested hypothesis, i.e., positive results. Psychology [is the worst culprit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850928/) in this regard. <figure class="wp-block-image">
 
-<img loading="lazy" width="447" height="515" src="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/positive_publication_bias-1.jpg?resize=447%2C515&#038;ssl=1" alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850928/" class="wp-image-1370" srcset="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/positive_publication_bias-1.jpg?w=447&ssl=1 447w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/positive_publication_bias-1.jpg?resize=260%2C300&ssl=1 260w" sizes="(max-width: 447px) 100vw, 447px" data-recalc-dims="1" /> </figure> 
+<div class="figure"> 
+    <img src="/assets/img/positive_publication_bias-1.jpg"
+    loading="lazy" max-width="100%" display="block" margin="0 auto" alt="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850928/"/>
+</div>
 
 Typically, among the social sciences, it&#8217;s the &#8220;harder&#8221; social sciences (e.g., much of economics, parts of psychology like behavioral genetics and quantitative psychology) that have better epistemic hygiene. Therefore, we&#8217;d expect replication to be higher in these fields.
 
@@ -220,19 +235,19 @@ However, I&#8217;d like to put concrete estimates on the replication rates and r
 
 I&#8217;ll weigh the existing replication attempts most heavily, so here they are:
 
-**Economics:** 
+**Economics**
 
 A [replication project](https://science.sciencemag.org/content/351/6280/1433) done by the Experimental Economics Replication Project (EERP) had a [**61% replication rate**](https://experimentaleconreplications.com/). 
 
-##### **Psychology:**
+**Psychology**
 
 2015: The &#8220;[Reproducibility Project: Psychology](https://science.sciencemag.org/content/349/6251/aac4716)&#8221; attempted to replicate 100 papers published in three top psychology journals in 2008. [**39%**](https://www.nature.com/news/over-half-of-psychology-studies-fail-reproducibility-test-1.18248) **of papers successfully replicated).**
 
 [The Many Labs Projects 1, 2, and 3](https://www.sciencedirect.com/science/article/pii/S0167487018303283#b0280) performed [ideal,](https://www.replicationmarkets.com/index.php/2019/06/24/what-is-high-powered-replication/) high-[quality replications](https://www.replicationmarkets.com/index.php/2019/06/24/what-is-high-powered-replication/) (i.e., multiple labs attempted to replicate findings). The replication rates were 77%, 50%, and 30%, respectively. The total replication rate (i.e., the weighted sum) was **53%**. 
 
-#### Other Metrics of Epistemic Hygiene
+### Other Metrics of Epistemic Hygiene
 
-**Economics:** 
+#### Economics 
 
 Economists have been discussing replication for [quite a while.](https://www.nber.org/papers/w13026)
 
@@ -244,39 +259,43 @@ That said, economics is having [its own replication crisis](https://www.bloomber
   </p>
   
   <cite><a href="http://ftp.iza.org/dp7268.pdf">Brodeur et al., 2016</a></cite>
-</blockquote><figure class="wp-block-image">
+</blockquote>
 
-<img loading="lazy" width="620" height="694" src="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/p_hacking_econ.png?resize=620%2C694&#038;ssl=1" alt="" class="wp-image-1372" srcset="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/p_hacking_econ.png?w=744&ssl=1 744w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/p_hacking_econ.png?resize=268%2C300&ssl=1 268w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /> </figure> 
+<br>
 
-If there weren&#8217;t publication bias, we&#8217;d expect the distribution of z-statistics to smoothly decrease, approximating the tail of a normal distribution.<figure class="wp-block-image is-resized">
+<div class="figure"> 
+    <img src="/assets/img/p_hacking_econ.png"
+    loading="lazy" style="max-width: 80%; max-height: 75%; display: block; margin: 0 auto;"/>
+</div>
 
-<img loading="lazy" src="https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z-scores.png?resize=434%2C397&#038;ssl=1" alt="" class="wp-image-1395" width="434" height="397" srcset="https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z-scores.png?w=578&ssl=1 578w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z-scores.png?resize=300%2C275&ssl=1 300w" sizes="(max-width: 434px) 100vw, 434px" data-recalc-dims="1" /> </figure> 
 
-Additionally, certain &#8220;causal&#8221; inference methods in economics, like [difference in differences](https://en.wikipedia.org/wiki/Difference_in_differences)—exploiting natural experiments in longitudinal data, e.g., the effects of a new state policy on some outcome—seem to be particularly [prone to publication bias and p-hacking](http://ftp.iza.org/dp11796.pdf). Whereas, randomized controlled trials (the gold standard of causal inference) and regression discontinuity (using putatively random, exogenous treatments to mimic an RCT) don&#8217;t demonstrate the same degree of publication bias.<figure class="wp-block-image">
+If there weren&#8217;t publication bias, we&#8217;d expect the distribution of z-statistics to smoothly decrease, approximating the tail of a normal distribution.
 
-<img loading="lazy" width="620" height="515" src="https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z_density_econ_methods.png?resize=620%2C515&#038;ssl=1" alt="" class="wp-image-1371" srcset="https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z_density_econ_methods.png?w=871&ssl=1 871w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z_density_econ_methods.png?resize=300%2C249&ssl=1 300w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2019/08/z_density_econ_methods.png?resize=768%2C638&ssl=1 768w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /> </figure> 
+Additionally, certain &#8220;causal&#8221; inference methods in economics, like [difference in differences](https://en.wikipedia.org/wiki/Difference_in_differences)—exploiting natural experiments in longitudinal data, e.g., the effects of a new state policy on some outcome—seem to be particularly [prone to publication bias and p-hacking](http://ftp.iza.org/dp11796.pdf). Whereas, randomized controlled trials (the gold standard of causal inference) and regression discontinuity (using putatively random, exogenous treatments to mimic an RCT) don&#8217;t demonstrate the same degree of publication bias.
 
-<p class="has-text-align-left">
-  In the above graph, the stars correspond to the <a href="https://en.wikipedia.org/wiki/Z-test">z-scores</a> that give p-values of 0.1, 0.05, and 0.01.
-</p>
+<div class="figure">
+<img loading="lazy" src="/assets/img/z_density_econ_methods.png" alt="" style="max-width: 80%; max-height: 75%; display: block; margin: 0 auto;"/> 
+<div class='caption'>
+        The stars correspond to the <a href="https://en.wikipedia.org/wiki/Z-test">z-scores</a> for p-values of 0.1, 0.05, and 0.01.
+    </div>
+</div>
+
 
 Effect sizes in economics are [wildly overestimated](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12461), too.
 
-**Psychology:**
+#### Psychology
 
 I&#8217;m pretty sure most academics have heard about the psychology replication crisis; there&#8217;s a lot of talk about it. Given this and the fact that there have been many more replication efforts in psychology than in other fields, I&#8217;ll just stick to the empirical data for my priors. 
 
-**Education:**
+#### Education
 
 With the exception of [research on exceptional children](https://adamlgreen.com/smpy/) and educational acceleration/tracking (as they&#8217;re grounded in strong psychometric foundations), most education research won&#8217;t replicate, I imagine. 
 
 Per [Inside Higher Ed](https://www.insidehighered.com/news/2014/08/14/almost-no-education-research-replicated-new-article-shows), &#8220;Only 0.13 percent of education articles published in the field’s top 100 journals are replications, write Matthew Makel, a gifted-education research specialist at Duke University, and Jonathan Plucker, a professor of educational psychology and cognitive science at Indiana University. In psychology, by contrast, 1.07 percent of studies in the field’s top 100 journals are replications, a 2012 study found.&#8221; 
 
-Education research also places a premium on novelty (which is what happens when you&#8217;re grasping at straws for an education intervention that produces long-lasting, positive effects):<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+Education research also places a premium on novelty (which is what happens when you&#8217;re grasping at straws for an education intervention that produces long-lasting, positive effects):
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+<iframe width="100%" height="50%" src="https://www.youtube.com/embed/zIUQK1yD95M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 With regard to specific replication failures in education research, growth mindset comes to mind (which I suppose is part of Psychology, too). Though initially hyped (TED talks and all), the most recent, largest replication studies have all flopped, demonstrating tiny effect sizes. Five days after posting a preprint of one such massive replication, the authors took the preprint down:
 
@@ -288,13 +307,11 @@ With regard to specific replication failures in education research, growth minds
   <a href="https://twitter.com/Russwarne/status/1107555420636274688?ref_src=twsrc%5Etfw">March 18, 2019</a>
 </blockquote>
 
-When pressed about the minuscule effect sizes, Dweck (the researcher who popularized mindset theory) was evasive:<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+When pressed about the minuscule effect sizes, Dweck (the researcher who popularized mindset theory) was evasive:
 
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
+<iframe width="100%" height="50%" src="https://www.youtube.com/embed/dxsLmCNlwpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Dweck is just a single bad-faith actor (\*cough\* [financial incentives](https://twitter.com/Russwarne/status/1159594269818138624?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1159594269818138624&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps%253A%252F%252Ftwitter.com%252FRusswarne%252Fstatus%252F1159594269818138624%26widget%3DTweet) \*cough\*) in education/psychology research; she doesn&#8217;t represent the field as a whole. But the fact that growth mindset theory has been taken seriously for this long and still won&#8217;t die suggests that education research is hostile to dissent and has bad epistemic hygiene. 
+Dweck is just a single bad-faith actor (\*cough\* [financial incentives](https://www.allamericanspeakers.com/speakers/9233/Carol-Dweck#:~:text=Carol%20Dweck%20is%20a%20keynote,your%20event%20is%20%2430%2C000%20%2D%20%2450%2C000.) \*cough\*) in education/psychology research; she doesn&#8217;t represent the field as a whole. But the fact that growth mindset theory has been taken seriously for this long and still won&#8217;t die suggests that education research is hostile to dissent and has bad epistemic hygiene. 
 
 Other educational claims that have failed, are p-hacked to death, or have inflated/overhyped effect sizes (that I can recall off the top of my head):
 
@@ -302,7 +319,7 @@ Other educational claims that have failed, are p-hacked to death, or have inflat
   * Teacher value-added studies, which have tiny effect sizes (viz., work done by Raj Chetty, who is an economist)
   * Early-life educational interventions to improve academic outcomes (viz., the work of Heckmann); these interventions seem to have a positive effect on non-academic outcomes, though. That said, the literature is [rife with publication bias](https://rpubs.com/EmilOWK/pub_bias_early_intervention).
 
-**Criminology and Sociology:**
+#### Criminology and Sociology
 
 <blockquote class="wp-block-quote">
   <p>
@@ -322,19 +339,16 @@ In Sociology, on the other hand, a large proportion of researchers aren&#8217;t 
   </p>
 </blockquote>
 
-Unsurprisingly, like in most social sciences, [we see evidence](https://www.gwern.net/docs/statistics/bias/2008-gerber.pdf) of publication bias:<figure class="wp-block-image">
+Unsurprisingly, like in most social sciences, [we see evidence](https://www.gwern.net/docs/statistics/bias/2008-gerber.pdf) of publication bias:
+<div class="figure">
+    <img src="/assets/img/soc_pub_bias.png" loading="lazy" style="max-width: 80%; max-height: 75%; display: block; margin: 0 auto;">
+</div>
 
-<img loading="lazy" width="620" height="557" src="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/soc_pub_bias.png?resize=620%2C557&#038;ssl=1" alt="" class="wp-image-1376" srcset="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/soc_pub_bias.png?w=658&ssl=1 658w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/soc_pub_bias.png?resize=300%2C269&ssl=1 300w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /> </figure> 
+#### Political Science
 
-**Political Science:**
+I don&#8217;t know much about political science, but it seems to have had its fair share of shoddy findings and [data fabrication](https://www.nytimes.com/2015/05/26/science/maligned-study-on-gay-marriage-is-shaking-trust.htmlhttps://www.nytimes.com/2015/05/26/science/maligned-study-on-gay-marriage-is-shaking-trust.html). That said, researchers have responded with [calls for better epistemic hygiene practices](https://politicalsciencereplication.wordpress.com/2018/07/14/replication-and-transparency-in-political-science-did-we-make-any-progress/) and journals have adjusted accordingly. There&#8217;s even an [active page](https://dataverse.harvard.edu/dataverse/gov2001) with replications of prominent political science papers.
 
-I don&#8217;t know much about political science, but it seems to have had its fair share of shoddy findings and [data fabrication](https://www.nytimes.com/2015/05/26/science/maligned-study-on-gay-marriage-is-shaking-trust.htmlhttps://www.nytimes.com/2015/05/26/science/maligned-study-on-gay-marriage-is-shaking-trust.html). That said, researchers have responded with [calls for better epistemic hygiene practices](https://politicalsciencereplication.wordpress.com/2018/07/14/replication-and-transparency-in-political-science-did-we-make-any-progress/) and journals have adjusted accordingly. There&#8217;s even an [active page](https://dataverse.harvard.edu/dataverse/gov2001) with replications of prominent political science papers.<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-
-<div class="wp-block-embed__wrapper">
-  <span class="embed-youtube" style="text-align:center; display: block;"></span>
-</div></figure> 
-
-**Management and Marketing**
+#### Management and Marketing
 
 Management and Marketing (M&M) seem to be a mix of social psychology, industrial/organizational [(IO) psych](https://www.apa.org/ed/graduate/specialize/industrial), and political science. For example, one of the [most cited articles](https://academic.oup.com/jpart/article/27/1/197/2629303) in a top M&M journal showcases some priming interaction effects, which is essentially something straight out psychology (that, we should note, hasn&#8217;t had the best replication record). So, we might imagine that the replication rate of M&M will be equal to that of psychology. 
 
@@ -342,7 +356,7 @@ Unfortunately, there&#8217;s not a lot of data out there on M&M replication. It&
 
 My impression is that **Replication Markets participants are systematically underpredicting the replicability of research in Management and Marketing**, probably because many of them are technical types allergic to business, marketing, and soft skills (even though most M&M papers aren&#8217;t specifically about those topics). This presents an interesting opportunity. 
 
-#### My Priors
+### My Replication Priors
 
 So, I&#8217;ll put my money where my mouth is (metaphorically, as there is no financial downside, just opportunity cost and being wrong) and provide my replication base rates:
 
@@ -358,21 +372,26 @@ So, I&#8217;ll put my money where my mouth is (metaphorically, as there is no fi
 
 **Education Research:** 40 ± 10% (I hope my priors aren&#8217;t too influenced by my research on the topic)
 
-## Will Replication Rates Vary Significantly By Year?
+### Will Replication Rates Vary Significantly By Year?
 
 One might intuit that as norms around scientific best practice change, so too will the quality of science. How could we confirm this before the replications are attempted? 
 
-A naïve approach would be to look at Google search term trends over time. For example, here are the trends for &#8220;psychology replication&#8221; and &#8220;open science&#8221; from 2004 to 2019:<figure class="wp-block-image">
+A naïve approach would be to look at Google search term trends over time. For example, here are the trends for &#8220;psychology replication&#8221; and &#8220;open science&#8221; from 2004 to 2019:
 
-<img loading="lazy" width="1676" height="841" src="https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?fit=640%2C321" alt="" class="wp-image-1379" srcset="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?w=1676&ssl=1 1676w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=1024%2C514&ssl=1 1024w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=300%2C151&ssl=1 300w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=768%2C385&ssl=1 768w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=900%2C452&ssl=1 900w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture.png?resize=1280%2C642&ssl=1 1280w" sizes="(max-width: 620px) 100vw, 620px" /> </figure> 
+<div class="figure">
+<img loading="lazy" src="/assets/img/Untitled-picture.png" alt="" style="max-width: 80%; max-height: 75%; display: block; margin: 0 auto;"/> 
+</div>
 
-A better approach would be to look at trends in journal articles, as these are written by those who actually write the journal articles. Using [Dimensions.ai](https://app.dimensions.ai/analytics/publication/overview/timeline?search_text=replication%20AND%20psychology&search_type=kws&search_field=full_search), we see that use of the terms &#8220;replication&#8221; and &#8220;psychology&#8221; in publications has gone up over time, doubling between 2010 and 2018:<figure class="wp-block-image">
+Here are the number of publications mentioning both "psychology" and "replication":
+<div class="figure">
+<img loading="lazy" src="/assets/img/dimensions_psych_final.png" alt="" style="max-width: 80%; max-height: 75%; display: block; margin: 0 auto;"/> 
+</div>
 
-<img loading="lazy" width="620" height="423" src="https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?resize=620%2C423&#038;ssl=1" alt="" class="wp-image-1378" srcset="https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?w=930&ssl=1 930w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?resize=300%2C205&ssl=1 300w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?resize=768%2C524&ssl=1 768w, https://i2.wp.com/adamlgreen.com/wp-content/uploads/2019/08/dimensions_econ.png?resize=900%2C615&ssl=1 900w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /> </figure> 
+Likewise with [economics](https://app.dimensions.ai/analytics/publication/overview/timeline?search_text=replication%20AND%20economics&search_type=kws&search_field=full_search), which has seen a similar 2x increase for publications mentioning both "economics" and "replication":
 
-Likewise with [economics](https://app.dimensions.ai/analytics/publication/overview/timeline?search_text=replication%20AND%20economics&search_type=kws&search_field=full_search), which has seen a similar 2x increase:<figure class="wp-block-image">
-
-<img loading="lazy" width="620" height="421" src="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?resize=620%2C421&#038;ssl=1" alt="" class="wp-image-1380" srcset="https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?w=930&ssl=1 930w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?resize=300%2C204&ssl=1 300w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?resize=768%2C521&ssl=1 768w, https://i0.wp.com/adamlgreen.com/wp-content/uploads/2019/08/Untitled-picture-econ.png?resize=900%2C611&ssl=1 900w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /> </figure> 
+<div class="figure">
+<img loading="lazy" src="/assets/img/dimensions_econ_final.png" alt="" style="max-width: 80%; max-height: 75%; display: block; margin: 0 auto;"/> 
+</div>
 
 The trends look similar for all other social science fields being replicated in SCORE. However, these graphs show total publications over time, which increase as the fields grow larger. **If we compare these trends to the number of publications in the fields as a whole, we see that the number of publications with the term &#8220;replication&#8221; has kept pace with the field (that is, it hasn&#8217;t accelerated).**&nbsp; 
 
@@ -392,7 +411,7 @@ If we wanted to be lazy (i.e., use heuristics), we&#8217;d take [the outside vie
 
 However, if we have subject-matter expertise, or are willing to do a bit of digging, we might take the inside view and update these priors accordingly. 
 
-### General Principles
+### Rules of Thumb
 
 1. Start with the replication rate for the field as a whole or, absent that, the replication rate for social science as a whole updated with our prior for the specific field.
 
@@ -409,7 +428,5 @@ However, if we have subject-matter expertise, or are willing to do a bit of digg
     Various things ought to heighten suspicion that a statistically significant interaction effect has a strong likelihood of not being “real.” Results that imply a plot like the one above practically scream “THIS RESULT WILL NOT REPLICATE.” There are so many ways of dividing a sample into subgroups, and there are so many variables in a typical dataset that have low correlation with an outcome, that it is inevitable that there will be all kinds of little pockets for high correlation for some subgroup just by chance.
   </p>
   
-  <cite><a href="https://scatter.wordpress.com/2008/08/19/lil-didactic-aside/> &#8220;>Jeremy Freese</a></cite>
+  <cite> <a href="https://scatter.wordpress.com/2008/08/19/lil-didactic-aside"> Jeremy Freese </a></cite>
 </blockquote>
-
-#### 4. Use your gut and have fun!
