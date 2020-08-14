@@ -11,7 +11,6 @@
     <link href='/css/blog.css' rel='stylesheet'/>
     <link href='/css/trac.css' rel='stylesheet'/>
     <link href='/css/markdown.css' rel='stylesheet'/>
-
     {% include mathjax.html %}
 </head>
 <body>
@@ -30,9 +29,17 @@
             <div class='clear'></div>
         </div>
     </div>
-    <div class='wrap article'>
-        {{ content }}
-    </div>
+    <div>
+        <div id="table-of-contents">
+            {% if page.table_of_contents == "yes" %} 
+            <h3>  Table of Contents</h3> 
+            {% endif %}
+            {% toc %}
+        </div>
+        <div class="wrap article">
+          {{ content }}
+        </div>
+      </div>
 </div>
 </body>
 </html>

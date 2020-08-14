@@ -6,7 +6,12 @@ date: 2019-07-01T08:36:09-04:00
 layout: default
 permalink: /education-policy/
 keywords: education, ethics, behavior genetics
-
+toc:
+  no_toc: ''
+  min_level: 1
+  max_level: 5
+  list_class: section-nav
+table_of_contents: "yes"
 ---
 <blockquote>
   <p>
@@ -18,7 +23,7 @@ keywords: education, ethics, behavior genetics
 
 The behavioral geneticist Paige Harden gave an interesting [talk](https://twitter.com/kph3k/status/1110322719822737408), “A World with Equity in Educational Success.” Speaking to an audience of educators and educational policymakers, she argues that though genetic differences have historically been seen as an enemy of educational equity, our rapidly growing genetic knowledge can be used in service of educational equity and social justice.
 
-Harden rightly points out that the study of heredity has historically been used to odious ends: forced sterilization, genocide, etc. She claims that these historical atrocities have been motivated by three incorrect and dangerous ideas.&nbsp;
+Harden rightly points out that the study of heredity has historically been used to odious ends: forced sterilization, genocide, etc. She claims that these historical atrocities have been motivated by three incorrect and dangerous ideas:
 
 1. _Genetic essentialism_: people have an essence, a true self, that is defined by their genes. This idea is dangerous because it links our moral worth to our DNA.&nbsp;
 
@@ -40,7 +45,8 @@ I largely agree with Harden on the empirical research on genetics and educationa
 
 Note: This essay presumes familiarity with behavioral genetics. For a brief primer, check out [this review](https://quillette.com/2018/09/25/forget-nature-versus-nurture-nature-has-won/) of Robert Plomin’s book, _Blueprint_. To make a long story short, in the past 5-10 years, due to a steep decline in the cost of genotyping (sequencing a set of genetic markers) and studies done on this genetic data, we are quickly developing genetic predictors (called polygenic scores, PGS, or PRS) of traits like educational attainment (EA). These predictors currently explain around [13% of the variance in educational attainment](https://www.ncbi.nlm.nih.gov/pubmed/30038396), which is as predictive as knowing one’s parental income level.
 
-### Steelmanning Harden on Equity
+<a href id="steelmanning"> </a>
+### Steelmanning Harden on Equity 
 
 The [OECD definition](https://www.oecd.org/education/school/50293148.pdf) of educational equity that Harden cites has two components: inclusion—“ensuring that all students reach at least a basic minimum level of skills”—and fairness—“personal or socio-economic circumstances, such as gender, ethnic origin or family background are not obstacles to educational success” (p. 15). On its face, both aspects of educational equity seem laudable. We want an informed citizenry that is able to do basic math, reading and science; and we don&#8217;t want there to be personal or socio-economic impediments to educational success.&nbsp;
 
