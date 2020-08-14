@@ -4,15 +4,16 @@ subtitle: A deflationary account of selfhood and qualia. Touches on psychedelic 
 date: 2018-02-03T12:01:52-05:00
 layout: default
 permalink: /searching-for-self/
+toc:
+  no_toc: ''
+  min_level: 1
+  max_level: 1
+  list_class: section-nav
+table_of_contents: "yes"
 ---
-_The precursor to this essay, written around a year earlier, can be found [here.](https://adamlgreen.com/you-arent-conscious-right-now/)_ 
+_The precursor to this essay, written around a year earlier, can be found [here.](https://adamlgreen.com/conscious-pt-1/)_ 
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
-
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
-
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
-
+## Intro
 Physicalism satisfyingly explains much of how reality works. We readily accept the explanation that heat is the motion of molecules and that DNA is the code of life. However, when talking about the experience of seeing the color red or the taste of coffee, it seems a purely physical explanation of color perception or gustation is lacking. What it lacks, according to many, is the phenomenal, what-it-is-likeness of the experience, something that can only be known from a first-person perspective (Nagel, 1974). No matter how well we explain sensation and perception in physical terms, no explanation will ever be epistemically satisfying; we will always face an “explanatory gap” between our qualitative experience and our explanations of it in physical terms (Levine, 1983).
 
 The explanatory gap is predicated on the existence of a metaphysically-special class of properties that are distinct from the physical: the so-called mental or phenomenal properties. However, as I’ll argue, these properties do not exist, and our belief that they do is due to an erroneous belief in the existence of a metaphysically-special subject of experience to whom we attribute these mental properties—the self. Once we show that there is no subject of experience, we’ll see that the apparent existence of the explanatory gap is due to the limits of human intuition, not the existence of a unique class of mental properties.
@@ -21,13 +22,11 @@ The aim of this paper is to provide a deflationary account of selfhood. I aim to
 
 My argument is divided into three parts. In Part 1, I’ll explain why we ought to treat physicalism as the null hypothesis and favor it prima facie; I’ll then define the term “self,” and explain where our intuitions about subjectivity come from. In Part 2, I’ll discuss the predictive processing theory, which claims that our brain predicts and generates what we call reality in order to reduce uncertainty; I’ll then situate the _the self_ within this framework and explain why would have been selected for by evolution. In Part 3, I’ll explain how even if we provide a comprehensive explanation of the self, we will never intuitively grasp the fact that what we call consciousness is a purely physical process; therefore, for all intents and purposes, the metaphysical fact of the matter isn’t important, because it will always intuitively “feel” like we are undergoing a subjective experience.
 
-<u>1.1 A brief overview of my philosophical framework and the physicalist null hypothesis</u>
+## 1.1 The physicalist null hypothesis
 
-I am a physicalist. I believe that the Universe is made of information—relationships between quarks and other fundamental particles—and everything since the Big Bang has been one long bout of information-processing (i.e. transformations of information). Some of this information-processing resulted in the existence of the first self-replicating bundles of information. Those information bundles that happened to perpetuate themselves better than other bundles persisted and grew more complex, leading to the phenomenon we call evolution by natural selection. Eventually this resulted in the emergence of a editable biological code, DNA, and through the forces of evolution, novel, complex patterns of information arose, including us, _Homo sapiens_.
+For the purposes of this paper, I’ll take a Bayesian perspective and argue that a physicalist (i.e., naturalistic, as opposed to some variety of dualism or panpsychism) explanation of the self—the apparent existence of a metaphysically-special self is a hallucination generated through purely physical processes—is more likely true than a dualist explanation—there exist non-physical properties which supervene on the physical. I think a physical explanation is more likely because of induction: those things which we thought were beyond physical explanation—how life is different from non-life—were ultimately explained in physical terms—respiration, excretion, etc. So it seems safe to assume that the march of reductionism will eventually explain everything in terms of basic physics. We can call this our physicalist null hypothesis. The alternative hypothesis is that we will never be able to explain certain phenomena—specifically the what-it-is-likeness of qualitative experience—in physical terms.
 
-For the purposes of this paper, I’ll take a Bayesian perspective and argue that a physicalist explanation of the self—the apparent existence of a metaphysically-special self is a hallucination generated through purely physical processes—is more likely true than a dualist explanation—there exist non-physical properties which supervene on the physical. I think a physical explanation is more likely because of induction: those things which we thought were beyond physical explanation—how life is different from non-life—were ultimately explained in physical terms—respiration, excretion, etc. So it seems safe to assume that the march of reductionism will eventually explain everything in terms of basic physics. We can call this our physicalist null hypothesis. The alternative hypothesis is that we will never be able to explain certain phenomena—specifically the what-it-is-likeness of qualitative experience—in physical terms.
-
-<u>1.2 Intuitions about the self</u>
+## 1.2 Intuitions about the self
 
 _The self_ is a nebulous, multidimensional term. As I’ll show, this is because what we call the self is a pastiche of disparate mental states. But for the purposes of argument, we can distinguish between two types of selfhood, broadly speaking. The _narrative self_ is the volitional agent with which you identify across time. This self has goals and is referred to as “I”. It is implicated in social thinking. The _embodied self_ is your representation of your body in space: the boundaries between you and the external world and your interoceptive, visceral sensations like hunger, pain, or drowsiness. It appears to be the immediate subject of what some call _qualia_ (Nagel, 1974).
 
@@ -35,7 +34,7 @@ You refer to both these aspects of the self all the time. If someone asks you wh
 
 But if you simply direct attention inward, toward the contents of experience in the present moment—the feeling of the seat pressing up into the body, the temperature of the air in the room—you will find that there are only sensations.<a href="#_ftn3" name="_ftnref3"><sup>[3]</sup></a> The feeling of self arises when you connect these sensations to another sensation: that of being a subject of experience. A modified version of the Block’s (2007) refrigerator light illusion applies here: when we aren’t introspecting on the nature of selfhood—e.g. when we’re lost in a good conversation or deep in a meditative state—it’s uncertain if the light of selfhood is on or off. But when we check to see if it’s there—when we wonder what the other person thinks of us, or think about some social fumble we made in the past, or actively think about the nature of selfhood—the light of selfhood is on (Blackmore, 2016).
 
-<u>1.3 An evolutionary account of intuitions</u>
+## 1.3 An evolutionary account of intuitions
 
 I claimed that the existence of the self is intuitive. By this I mean that the feeling of being a subject of experience produces a minimal amount of internal confusion. It simply _feels_ like it’s true. However, as the history of science shows, just because something feels intuitive doesn&#8217;t mean it’s true; and just because something feels unintuitive doesn’t mean it’s necessarily false. The idea that the Earth orbits the Sun is unintuitive; the idea that our biological blueprint is encoded in a substrate called DNA is unintuitive; and the idea that our universe is composed of microscopic particles is unintuitive. Yet we treat these explanations as true because their explanatory power is satisfying enough to make us disregard our intuitions.
 
@@ -45,13 +44,16 @@ But again, just because feeling we are subjects of experience is intuitive does 
 
 Visual illusions illustrate this well: we are constantly generating reality through an internal model, a model that uses heuristics and is biased is profound ways. We overcome these biases by extending our cognition with empirical tools: the telescope, the microscope, and mathematics, for example. In the case of the Ebbinghaus illusion (see the following page), while the left orange circle appears smaller than the right, we can measure the diameters of the two circles to see that they are actually the same size. This empirical explanation is satisfying enough for us to disregard the intuition that one circle is smaller than the other.
 
-<p style="text-align: center;">
-  Figure 1: The Ebbinghaus Illusion
-</p>
 
-<img loading="lazy" class="aligncenter wp-image-1118 size-medium" src="https://i1.wp.com/adamlgreen.com/wp-content/uploads/2018/02/ebbinghaus.png?resize=300%2C185&#038;ssl=1" alt="" width="300" height="185" srcset="https://i1.wp.com/adamlgreen.com/wp-content/uploads/2018/02/ebbinghaus.png?resize=300%2C185&ssl=1 300w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2018/02/ebbinghaus.png?w=650&ssl=1 650w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /> 
+<div class="figure">
+<img loading="lazy" src="/assets/img/ebbinghaus.png" alt="" style="max-width: 100%; display: block; margin: 0 auto;"/> 
+<div class='caption'>
+        The Ebbinghaus illusion.
+    </div>
+</div>
 
-<u>2.1 The predictive processing theory, illusions and hallucinations</u>
+
+## 2.1 The predictive processing theory, illusions and hallucinations
 
 Setting aside the self for a moment, let’s turn our attention to the predictive processing theory of cognition, an overarching model of how the brain works. The model argues that our brain does not directly see reality in a naive-realist fashion; rather, our brain is constantly predicting and simulating what we call reality. We can explain the Ebbinghaus illusion through this model. Per the model, our misinterpretation of the visual data is caused by our prior expectations (i.e. our priors). Our brain uses a top-down generative model—items surrounded by smaller items look bigger—to construct your visual reality from the incoming bottom-up sense data. Illusions like the Ebbinghaus illusion occur when our these models are tricked (Clark, 2016). However, these models are quite useful, as they allow us to simplify all the sensory data the brain receives; were we not to have them, our brains would be overflowing with information.
 
@@ -59,7 +61,7 @@ On its own, the predictive processing theory is nothing new. In fact, it origina
 
 The Bayesian brain hypothesis is intimately tied to the free-energy principle, an idea from statistical thermodynamics and information theory. It states that “any self-organizing system that is at equilibrium with its environment must minimize its free energy” (Friston, 2010). For our purposes, free energy is synonymous with entropy, a measure of disorder or uncertainty. Physical systems (like humans) must reduce uncertainty in order to resist their tendency toward entropy. We do this by changing our predictions about the environment—predictive processing—and by changing the data we receive by changing our environment—so-called “active inference” (Friston, 2010). I will expand on the importance of the free-energy principle in section 2.4.
 
-<u>2.2 Predictive processing of the self model</u>
+## 2.2 Predictive processing of the self model
 
 With the predictive processing theory and Bayesian brain hypothesis in place, we can now step outside our limited epistemic situation and put subjective experience within a broader context. If we take the predictive processing theory seriously, it has some two interesting implications.
 
@@ -67,11 +69,9 @@ We do not directly “see,” “hear,” or “smell” anything. All our sensa
 
 As shown with the Ebbinghaus illusion, our internal models often cause us to misinterpret incoming sense data. However, if we are constantly predicting and constructing reality in a top-down fashion instead of passively viewing it from the bottom-up, then we might not just be subject to the occasional illusion: we may be hallucinating our reality all the time. By hallucinate, I do not mean that we are misperceiving incoming sense data. I mean that we erroneously generate sensations from within, e.g. the sensation that all the physical things happening in the present moment are part of some grand subjective experience we are undergoing. This hallucination is at the core of what it feels like to be a self, to be a locus of consciousness. It is bold to claim the self is a hallucination, but in the next section I’ll explain the ways this hallucination may be implemented.
 
-<u>2.3 The rubber-hand illusion and other experimental perturbations of interoception</u>
+## 2.3 The rubber-hand illusion and other experimental perturbations of interoception
 
 The rubber hand illusion (RHI) is a simple example of how the embodied self is integrated and how it can easily be perturbed. In the RHI, the subject’s hand rests on the table and is occluded from view by box; a rubber hand is then placed in front of the subject. As the subject looks at the rubber hand, the experimenter strokes both hands simultaneously. Subjects report feeling like the rubber hand is their own  (Botvinick & Cohen, 1998). When the rubber hand is threatened—for example, when the experimenter stabs it with a fork—many subjects elicit a statistically significant response in areas of the brain associated with anxiety such as the insula (Ehrsson, 2007).
-
-
 
 The RHI is quite a simple example of how the predictive mechanisms of the brain can be fooled. But recent experimental work (Suzuki et al., 2013) shows that our sense of embodied selfhood can be perturbed in much more significant ways. In one experiment, subjects wore a virtual reality (VR) headset and a heartrate monitor. The subjects looked at their hand through the VR headset. In one condition the hand pulsed in sync with their heartbeat; in another condition it did not. Subjects reported feeling much more identified with the VR hand when it pulsed in sync with their heartbeat, suggesting  that the embodied selfhood model of the brain inferred the hand to be part of the body.
 
@@ -79,7 +79,7 @@ These experiments and others (see Slater et al. 2010 for an example of a VR-indu
 
 Both the RHI and the VR experiment show how the embodied self is a generative model our brain uses to make sense of the environment. Thus the hand that is your own is not necessarily the one that is attached to your body, but the one you _feel_ is attached to your body. But, as I’ve argued, there is no special subject of experience to whom the hand belongs; the feeling of being a subject is merely a hallucination the brain generates in order to reduce uncertainty, as I’ll show in the next section.
 
-<u>2.4 An evolutionary explanation of embodied selfhood</u>
+## 2.4 An evolutionary explanation of embodied selfhood
 
 Selfhood is a way of minimizing free energy, of better predicting the nature of future state spaces of the environment and thus being better adapted to them. Setting aside our human conception of selfhood, imagine a single-cell organism whose survival is dependent on maintaining boundaries with the external world. In order to maintain homeostasis, certain things need to come in (e.g. food), and other things need to stay out (e.g. intruders). The cell accomplishes this feat by recognizing patterns in the environment, patterns of what is part of itself and what is not. Though it does not think “my DNA is part of me and this virus is not,” it acts as if this were the case: it uses its proto-immune-system to attack intruders and protect its internal environment. This is a form of basic selfhood, distinguishing between that which is me (i.e. that which has similar genetic interests as I do) and that which is not.
 
@@ -87,7 +87,7 @@ What we call embodied selfhood comes from the same imperative the single-cell or
 
 What we call the narrative self is the an extremely high-level version of this embodied selfhood. There are reasons why evolution would have selected for us to attribute a higher-level narrative self to ourselves and others. Attribution of a narrative self to ourselves allows us to plan our own behavior, which would have been hugely beneficial for survival and reproduction. Attribution of a narrative self to others allows us to predict their behavior and therefore cooperate with them. This facilitates the emergence of prosocial behavior, hence why it was selected (perhaps via group selection.) Add on top of that the ability to articulate beliefs and desires in terms of language, and a positive feedback loop would develop. Framed in this light, it’s clear why we feel we are subjects of experience.
 
-<u>2.5 Narrative selfhood and inducing ego dissolution</u>
+## 2.5 Narrative selfhood and inducing ego dissolution
 
 Evolution did not select for us to cut through the hallucination of the narrative self, just as it didn’t select for us to question our agency and the nature of free will. However, empirical work on altered states of consciousness induced by psychedelics and meditation show that the hallucination of the self can dissolve temporarily.
 
@@ -97,13 +97,18 @@ Carhart-Harris et al. (2014) has recently proposed a theory to explain psychedel
 
 Carhart-Harris et al. measured what they call “entropy” by looking at the variance within a network of the brain (e.g. the variance in activation of voxels within the default mode network); those networks with high variance were defined as having high levels of entropy. There were two condition, the control condition and the experimental psilocybin condition. When looking at subjects in a normal conscious state, they found little entropy in all brain networks. In the experimental psilocybin condition, they found increased entropy in many of the higher-level networks, like the default mode network (which has been associated with social cognition and the narrative self) and the salience network.
 
-<img loading="lazy" class="aligncenter wp-image-1170 size-medium" src="https://i1.wp.com/adamlgreen.com/wp-content/uploads/2018/02/Homological-scaffold-of-placebo-v.-psilocybin.jpg?resize=300%2C155&#038;ssl=1" alt="" width="300" height="155" srcset="https://i1.wp.com/adamlgreen.com/wp-content/uploads/2018/02/Homological-scaffold-of-placebo-v.-psilocybin.jpg?resize=300%2C155&ssl=1 300w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2018/02/Homological-scaffold-of-placebo-v.-psilocybin.jpg?resize=1024%2C528&ssl=1 1024w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2018/02/Homological-scaffold-of-placebo-v.-psilocybin.jpg?resize=768%2C396&ssl=1 768w, https://i1.wp.com/adamlgreen.com/wp-content/uploads/2018/02/Homological-scaffold-of-placebo-v.-psilocybin.jpg?w=1280&ssl=1 1280w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /> 
+<div class="figure">
+<img loading="lazy" src="/assets/img/Homological-scaffold-of-placebo-v-psilocybin.jpg" alt="" style="max-width: 100%; display: block; margin: 0 auto;"/> 
+<div class='caption'>
+        Homological scaffolds representing brain network connectivity in the placebo (left) and psilocybin (right) groups.
+    </div>
+</div>
 
 While Carhart-Harris et al. did not offer a fully mechanistic account of how psychedelics such as psilocybin cut through the hallucination of the self, their entropic brain hypothesis is a promising explanation, and fits in nicely with the predictive processing account of cognition. They argue that psychedelics relax our top-down priors, the high level predictive schema we employ in day-to-day life such as “this is who I am” and “this is my body,” hence the feelings of ego dissolution and oceanic boundlessness.
 
 Psychedelic experiences and their neural correlates are not evidence for the self being a hallucination. However, they do show that it is possible to cut through the first-person, transparent perspective through which we view the world, and thus shift our intuitions about the nature of experience in profound ways.
 
-<u>3.1 On shifting intuitions</u>
+## 3.1 On shifting intuitions
 
 In the previous two sections I’ve attempted to define the multiple facets of the term _self,_ situate it within the predictive processing theory, and provide an account of how and why the brain generates it. However, you may still feel that you are a subject of experience. This is understandable. As I’ve stated, evolution selected for our intuitions about selfhood to be deeply hardwired in our brain; these intuitions are only changed through serious effort (e.g. a 3-month vipassana meditation retreat or a strong dose of psychedelics.) From a functionalist perspective, I myself probably don’t even believe the self is a hallucination (see, I just referred to “I,” “myself,” and “believe.”)
 
@@ -119,7 +124,7 @@ You might object, “if everything I perceive is a hallucination, does anything 
 
 It also follows that the representation of “cat” in my brain does not possess some special mental property of “catness.” When we refer to the concept “cat,” we’re referring to a physical pattern found in the weighted connections between neurons in human brains; this pattern is isomorphic to those organisms out in the world we call cats. For example, their is some level of retinotopic mapping in higher level visual areas such that my neural representation of “cat” is cat-like, in the sense it bears some, albeit convoluted, resemblance to the physical structure of cats. We say “that’s a cat” when we see what is putatively a cat; and if you ask me about my cat, Dixie, I might report experiencing a visual representation of an animal that likes to kill mice and birds and bring them to my doorstep. But we can cash this all out in functionalist terms, and so there’s no need to appeal to a special mental experience which supervenes on the physical representation of a cat in your brain. The appearance of this special mental component is merely part of the greater hallucination of selfhood.
 
-<u>3.2 Realism, Pragmatism, and the intentional stance</u>
+## 3.2 Realism, Pragmatism, and the intentional stance
 
 We ought to favor a physical explanation of the self over a dualist one if only because it’s more consistent with physicalist explanations of the world, and therefore more parsimonious. In addition, physicalist theories offer greater potential explanatory power, whereas dualist theories inevitably run into a wall (or a gap, as it were.)
 
