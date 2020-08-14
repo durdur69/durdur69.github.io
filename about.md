@@ -15,3 +15,7 @@ Right now, I'm thinking about or working on the following topics:
 The purpose of the blog is to share what I find provocative or valuable. 
 
 **Contact:** <adamlgreen15@gmail.com> or via [Twitter](https://twitter.com/adamlewisgreen)
+
+***
+
+Site base theme comes from [Gregory Gundersen](https://gregorygundersen.com/blog/2020/06/21/blog-theme/).
