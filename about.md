@@ -4,7 +4,7 @@ date: 2016-08-13T16:18:58-04:00
 author: adamlgreen
 layout: page
 ---
-I'm an independent researcher with a background in cognitive science, philosophy of mind, applied ethics, and data science/statistics.
+I'm a researcher with a background in cognitive science, philosophy of mind, applied ethics, and data science/statistics.
 
 Right now, I'm thinking about or working on the following topics:
 
