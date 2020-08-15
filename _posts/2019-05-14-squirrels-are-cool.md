@@ -1,6 +1,6 @@
 ---
 title: Kin Selection for Alarm Calling Behavior in Rodent Species
-subtitle: If a squirrel emits an alarm call and there are no relatives to hear it, does it make a sound?
+subtitle: If a squirrel makes an alarm call and there are no relatives to hear it, does it make a sound?
 layout: default
 date: 2016-03-01
 keywords: biology, group selection, evolution

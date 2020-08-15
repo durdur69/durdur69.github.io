@@ -18,4 +18,4 @@ The purpose of the blog is to share what I find provocative or valuable.
 
 ***
 
-Site base theme comes from [Gregory Gundersen](https://gregorygundersen.com/blog/2020/06/21/blog-theme/).
+Site base theme based on the work of [Gregory Gundersen](https://gregorygundersen.com/blog/2020/06/21/blog-theme/). Tufte sidenotes credit goes to [ayekat](http://ayekat.ch/blog/tufte-css).
